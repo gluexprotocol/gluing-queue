@@ -8,9 +8,10 @@ Each liquidity module is ranked using the **Glueing Score** formula:
 
 ```math
 
-Glueing Score = (7d_Trade_Volume) * (Nr_of_Chains_Deployed) * (TVL)
+Glueing Score = (7d Trade Volume) * (Nr of Chains Deployed) * (TVL)
 
 ```
+<br>
 
 - Trade volume and TVL should be in millions, USD.
 - If any data is missing, the protocol is placed at the bottom of the queue.  
