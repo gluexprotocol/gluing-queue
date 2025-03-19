@@ -8,26 +8,7 @@
 </head>
 <body>
     <h1>GlueX Glueing Queue</h1>
-    <p>Liquidity module integrations are prioritized based on their Glueing Score.</p>
-
-    <!-- Filters -->
-    <div class="filters">
-        <label for="bountyFilter">Filter by Bounty:</label>
-        <select id="bountyFilter">
-            <option value="all">All</option>
-            <option value="hasBounty">With Bounty</option>
-            <option value="noBounty">Without Bounty</option>
-        </select>
-
-        <label for="tvlFilter">Filter by TVL:</label>
-        <input type="number" id="tvlFilter" placeholder="Min TVL ($M)" min="0">
-
-        <label for="tradeVolumeFilter">Filter by Trade Volume (7D):</label>
-        <input type="number" id="tradeVolumeFilter" placeholder="Min Volume ($M)" min="0">
-        
-        <button onclick="applyFilters()">Apply Filters</button>
-        <button onclick="resetFilters()">Reset</button>
-    </div>
+    <p>Liquidity module integrations are prioritized based on their Glueing Score. However, Gluers may be incentivized with a bounty.</p>
 
     <table id="queueTable">
         <thead>

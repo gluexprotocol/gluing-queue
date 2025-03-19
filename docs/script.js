@@ -33,41 +33,6 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 });
 
-// Function to apply filters
-function applyFilters() {
-    let filteredQueue = queueData; // Make sure queueData is defined globally
-
-    // Filter by Bounty
-    let bountyFilter = document.getElementById("bountyFilter").value;
-    if (bountyFilter === "hasBounty") {
-        filteredQueue = filteredQueue.filter(item => item.bounty && item.bounty !== "None");
-    } else if (bountyFilter === "noBounty") {
-        filteredQueue = filteredQueue.filter(item => !item.bounty || item.bounty === "None");
-    }
-
-    // Filter by TVL
-    let minTVL = parseFloat(document.getElementById("tvlFilter").value);
-    if (!isNaN(minTVL)) {
-        filteredQueue = filteredQueue.filter(item => (item.tvl_million || 0) >= minTVL);
-    }
-
-    // Filter by Trade Volume
-    let minVolume = parseFloat(document.getElementById("tradeVolumeFilter").value);
-    if (!isNaN(minVolume)) {
-        filteredQueue = filteredQueue.filter(item => (item.trade_volume_7d_million || 0) >= minVolume);
-    }
-
-    displayQueue(filteredQueue);
-}
-
-
-function resetFilters() {
-    document.getElementById("bountyFilter").value = "all";
-    document.getElementById("tvlFilter").value = "";
-    document.getElementById("tradeVolumeFilter").value = "";
-    displayQueue(queueData);
-}
-
 function displayQueue(queue) {
     const tableBody = document.querySelector("#queueTable tbody");
     if (!tableBody) {
