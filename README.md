@@ -1,6 +1,6 @@
-# GlueX Gluing Queue – Prioritizing Liquidity Module Integrations  
+# Gluing Queue – Prioritizing Liquidity Module Integrations  
 
-The **GlueX Gluing Queue** ranks liquidity modules based on their importance to the ecosystem and its integration partners.
+The **Gluing Queue** ranks liquidity modules based on their importance to the ecosystem and its integration partners.
 
 ## How is Priority Determined?
 
