@@ -8,7 +8,7 @@ Each liquidity module is ranked using the **Glueing Score** formula:
 
 ```math
 
-Glueing Score = (7d Trade Volume) * (Nr of Chains Deployed) * (TVL)
+Glueing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\text{TVL})
 
 ```
 <br>
