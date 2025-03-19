@@ -33,6 +33,41 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 });
 
+// Function to apply filters
+function applyFilters() {
+    let filteredQueue = queueData; // Make sure queueData is defined globally
+
+    // Filter by Bounty
+    let bountyFilter = document.getElementById("bountyFilter").value;
+    if (bountyFilter === "hasBounty") {
+        filteredQueue = filteredQueue.filter(item => item.bounty && item.bounty !== "None");
+    } else if (bountyFilter === "noBounty") {
+        filteredQueue = filteredQueue.filter(item => !item.bounty || item.bounty === "None");
+    }
+
+    // Filter by TVL
+    let minTVL = parseFloat(document.getElementById("tvlFilter").value);
+    if (!isNaN(minTVL)) {
+        filteredQueue = filteredQueue.filter(item => (item.tvl_million || 0) >= minTVL);
+    }
+
+    // Filter by Trade Volume
+    let minVolume = parseFloat(document.getElementById("tradeVolumeFilter").value);
+    if (!isNaN(minVolume)) {
+        filteredQueue = filteredQueue.filter(item => (item.trade_volume_7d_million || 0) >= minVolume);
+    }
+
+    displayQueue(filteredQueue);
+}
+
+
+function resetFilters() {
+    document.getElementById("bountyFilter").value = "all";
+    document.getElementById("tvlFilter").value = "";
+    document.getElementById("tradeVolumeFilter").value = "";
+    displayQueue(queueData);
+}
+
 function displayQueue(queue) {
     const tableBody = document.querySelector("#queueTable tbody");
     if (!tableBody) {
@@ -52,7 +87,7 @@ function displayQueue(queue) {
             <td>${item.tvl_million ? item.tvl_million + "M" : "Unknown"}</td>
             <td>${item.glueing_score ? item.glueing_score.toLocaleString() : "Pending"}</td>
             <td>${item.bounty && item.bounty !== "None" ? item.bounty : "No Bounty"}</td>
-            <td>${item.docs ? `<a href="${item.docs}" target="_blank">Docs</a>` : "No Docs"}</td>
+            <td>${item.docs && item.docs !== "NA" ? `<a href="${item.docs}" target="_blank">Docs</a>` : "Missing"}</td>
         `;
         tableBody.appendChild(row);
     });
