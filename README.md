@@ -1,14 +1,14 @@
-# GlueX Glueing Queue – Prioritizing Liquidity Module Integrations  
+# GlueX Gluing Queue – Prioritizing Liquidity Module Integrations  
 
-The **GlueX Glueing Queue** ranks liquidity modules based on their importance to the ecosystem and its integration partners.
+The **GlueX Gluing Queue** ranks liquidity modules based on their importance to the ecosystem and its integration partners.
 
 ## How is Priority Determined?
 
-Each liquidity module is ranked using the **Glueing Score** formula:   
+Each liquidity module is ranked using the **Gluing Score** formula:   
 
 ```math
 
-Glueing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\text{TVL})
+Gluing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\text{TVL})
 
 ```
 <br>
@@ -17,7 +17,7 @@ Glueing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\te
 - If any data is missing, the protocol is placed at the bottom of the queue.  
 - Anyone (protocol teams, community members) can challenge rankings by submitting updated data with verifiable sources.  
 
-🔗 **View the Live Queue:** https://gluexprotocol.github.io/glueing-queue/
+🔗 **View the Live Queue:** https://gluexprotocol.github.io/gluing-queue/
 
 ---
 
@@ -26,12 +26,12 @@ Glueing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\te
 If you are a **protocol team or community member**, you can submit a **Pull Request (PR)** to:  
 
 1. Provide missing **trade volume, TVL, or chain deployment data**.  
-2. Request a **re-evaluation of your Glueing Score**.  
+2. Request a **re-evaluation of your Gluing Score**.  
 3. Assign a **bounty to fast-track integration**.  
 
 ### **Steps to Update the Queue**  
 1. **Fork this repository.**  
-2. Navigate to `docs/data/glueing_queue.json`.  
+2. Navigate to `docs/data/gluing_queue.json`.  
 3. Update your protocol's data following the example below:  
 
 ```json
@@ -41,7 +41,7 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
   "chains": ["Ethereum", "Polygon"],
   "trade_volume_7d_million": 100,
   "tvl_million": 200,
-  "glueing_score": 20000000,
+  "gluing_score": 20000000,
   "rank": 3,
   "bounty": "1000 USDC"
 }
@@ -61,10 +61,10 @@ If your protocol wants **faster integration**, you can offer a **bounty** to inc
 2. **Provide complete and verifiable data** for trade volume, TVL, and supported chains.  
 3. **Assign a bounty** to attract faster implementation:  
    - Specify the amount of tokens and token to be rewarded.  
-   - Bounties will be displayed publicly in the Glueing Queue.  
+   - Bounties will be displayed publicly in the Gluing Queue.  
 4. **Discuss your integration with the GlueX team** to optimize the process.  
 
-To ensure the integrity of the glueing process, we might require bounties to be locked on an escrow account as soon as a Gluer has officially started your integration.
+To ensure the integrity of the gluing process, we might require bounties to be locked on an escrow account as soon as a Gluer has officially started your integration.
 
 ---
 
@@ -72,7 +72,7 @@ To ensure the integrity of the glueing process, we might require bounties to be 
 
 For further information on integration, ranking, and submitting requests, refer to:  
 
-- **[Live Glueing Queue](https://gluex.github.io/glueing-queue/)** – View the latest queue rankings.  
+- **[Live Gluing Queue](https://gluex.github.io/gluing-queue/)** – View the latest queue rankings.  
 - **[PR Submission Template](./PR-template.md)** – Follow the correct format when updating the queue.  
 - **[GlueX Liquidity Module Integration Guide](https://github.com/gluexprotocol/liquidity-module-self-integration)** – Technical documentation for developing a liquidity module.  
 

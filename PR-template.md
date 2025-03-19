@@ -1,4 +1,4 @@
-# Glueing Queue Update Request  
+# Gluing Queue Update Request  
 
 ## Protocol Information  
 - **Protocol Name:** [Insert Name]  
@@ -6,7 +6,7 @@
 - **Deployed Chains:** [Ethereum, BNB, Arbitrum, etc.]  
 - **Trade Volume (7D) in million USD:** [Provide number & source link]  
 - **Total Value Locked (TVL) in million USD:** [Provide number & source link]  
-- **Glueing Score Calculation:** [Trade Volume * Number of Chains * TVL]  
+- **Gluing Score Calculation:** [Trade Volume * Number of Chains * TVL]  
 
 ## Reason for Update  
 [Explain why the ranking should change or missing data should be updated. Provide any necessary references.]  
