@@ -17,7 +17,7 @@ Glueing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\te
 - If any data is missing, the protocol is placed at the bottom of the queue.  
 - Anyone (protocol teams, community members) can challenge rankings by submitting updated data with verifiable sources.  
 
-🔗 [**View the Live Queue:**](https://gluexprotocol.github.io/glueing-queue/)  
+🔗 **View the Live Queue:** https://gluexprotocol.github.io/glueing-queue/
 
 ---
 
