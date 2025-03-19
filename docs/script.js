@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     let queueData = [];
 
-    fetch("docs/data/glueing_queue.json") // Ensure this matches your hosted file path
+    fetch("data/glueing_queue.json") // Ensure this matches your hosted file path
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
