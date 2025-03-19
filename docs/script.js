@@ -57,5 +57,5 @@ function displayQueue(queue) {
         tableBody.appendChild(row);
     });
 
-    console.log("✅ Table updated successfully!");
+    console.log("Table updated successfully!");
 }
