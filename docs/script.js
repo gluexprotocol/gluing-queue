@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     let queueData = [];
 
-    fetch("data/glueing_queue.json") // Ensure this path matches your actual JSON location
+    fetch("docs/data/glueing_queue.json") // Ensure this matches your hosted file path
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
@@ -26,9 +26,36 @@ document.addEventListener("DOMContentLoaded", function () {
             queue.sort((a, b) => (b.glueing_score || 0) - (a.glueing_score || 0));
 
             queueData = queue; // Store data for filtering
-            displayQueue(queue);
+            displayQueue(queue); 
         })
         .catch(error => {
             console.error("Error loading queue data:", error);
         });
 });
+
+function displayQueue(queue) {
+    const tableBody = document.querySelector("#queueTable tbody");
+    if (!tableBody) {
+        console.error("Error: Table body not found!");
+        return;
+    }
+
+    tableBody.innerHTML = ""; // Clear table
+
+    queue.forEach((item, index) => {
+        const row = document.createElement("tr");
+        row.innerHTML = `
+            <td>${index + 1}</td>
+            <td>${item.protocol}</td>
+            <td>${item.chains ? item.chains.join(", ") : "Pending"}</td>
+            <td>${item.trade_volume_7d_million ? item.trade_volume_7d_million + "M" : "Unknown"}</td>
+            <td>${item.tvl_million ? item.tvl_million + "M" : "Unknown"}</td>
+            <td>${item.glueing_score ? item.glueing_score.toLocaleString() : "Pending"}</td>
+            <td>${item.bounty && item.bounty !== "None" ? item.bounty : "No Bounty"}</td>
+            <td>${item.docs ? `<a href="${item.docs}" target="_blank">Docs</a>` : "No Docs"}</td>
+        `;
+        tableBody.appendChild(row);
+    });
+
+    console.log("✅ Table updated successfully!");
+}
