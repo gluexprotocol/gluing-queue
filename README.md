@@ -21,7 +21,7 @@ Glueing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\te
 
 ---
 
-## 🛠 How to Submit an Update  
+## How to Submit an Update  
 
 If you are a **protocol team or community member**, you can submit a **Pull Request (PR)** to:  
 
@@ -77,4 +77,6 @@ For further information on integration, ranking, and submitting requests, refer 
 - **[GlueX Liquidity Module Integration Guide](https://github.com/gluexprotocol/liquidity-module-self-integration)** – Technical documentation for developing a liquidity module.  
 
 For inquiries, contact the GlueX team at:  
+<br>
+
 **Telegram:** https://t.me/+yf_US2ACNrgyNzY0
