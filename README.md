@@ -31,7 +31,7 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
 
 ### **Steps to Update the Queue**  
 1. **Fork this repository.**  
-2. Navigate to `/data/glueing_queue.json`.  
+2. Navigate to `docs/data/glueing_queue.json`.  
 3. Update your protocol's data following the example below:  
 
 ```json
