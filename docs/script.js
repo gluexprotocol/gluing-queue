@@ -40,6 +40,7 @@ function displayQueue(queue) {
             <td>${item.tvl_million ? item.tvl_million + "M" : "Unknown"}</td>
             <td>${item.glueing_score ? item.glueing_score.toLocaleString() : "Pending"}</td>
             <td>${item.bounty && item.bounty !== "None" ? item.bounty : "No Bounty"}</td>
+            <td>${item.docs ? `<a href="${item.docs}" target="_blank">Docs</a>` : "No Docs"}</td>
         `;
         tableBody.appendChild(row);
     });

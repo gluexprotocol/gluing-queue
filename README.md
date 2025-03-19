@@ -1,19 +1,20 @@
 # GlueX Glueing Queue – Prioritizing Liquidity Module Integrations  
 
-The **GlueX Glueing Queue** ranks liquidity modules based on their importance to the ecosystem, ensuring that **high-impact protocols** get integrated first. 
+The **GlueX Glueing Queue** ranks liquidity modules based on their importance to the ecosystem and its integration partners.
 
 ## How is Priority Determined?
 
 Each liquidity module is ranked using the **Glueing Score** formula:   
 
 ```math
-Glueing Score = (Trade Volume over past 7 days in $M) * (Number of Chains Deployed) * (Total Value Locked in $M)
+
+Glueing Score = (7d_Trade_Volume) * (Nr_of_Chains_Deployed) * (TVL)
+
 ```
 
-Notes that,
-
-- If any data is missing, the protocol is **placed at the bottom of the queue**.  
-- Anyone (protocol teams, community members) can **challenge rankings** by submitting updated data **with verifiable sources**.  
+- Trade volume and TVL should be in millions, USD.
+- If any data is missing, the protocol is placed at the bottom of the queue.  
+- Anyone (protocol teams, community members) can challenge rankings by submitting updated data with verifiable sources.  
 
 🔗 **View the Live Queue:** [https://gluex.github.io/glueing-queue/](#)  
 
@@ -35,6 +36,7 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
 ```json
 {
   "protocol": "Protocol X",
+  "docs": "<module_docs_url>",
   "chains": ["Ethereum", "Polygon"],
   "trade_volume_7d_million": 100,
   "tvl_million": 200,
@@ -61,7 +63,7 @@ If your protocol wants **faster integration**, you can offer a **bounty** to inc
    - Bounties will be displayed publicly in the Glueing Queue.  
 4. **Discuss your integration with the GlueX team** to optimize the process.  
 
-To ensure the integrity of the glueing process, we require bounties to be locked on an escrow account as soon as a Gluer has officially started your integration.
+To ensure the integrity of the glueing process, we might require bounties to be locked on an escrow account as soon as a Gluer has officially started your integration.
 
 ---
 

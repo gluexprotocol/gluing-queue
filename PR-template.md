@@ -2,7 +2,7 @@
 
 ## Protocol Information  
 - **Protocol Name:** [Insert Name]  
-- **Website:** [Insert Website URL]  
+- **Docs:** [Insert Docs Website URL]  
 - **Deployed Chains:** [Ethereum, BNB, Arbitrum, etc.]  
 - **Trade Volume (7D) in million USD:** [Provide number & source link]  
 - **Total Value Locked (TVL) in million USD:** [Provide number & source link]  
