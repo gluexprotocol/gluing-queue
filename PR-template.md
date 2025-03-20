@@ -6,7 +6,8 @@
 - **Deployed Chains:** [Ethereum, BNB, Arbitrum, etc.]  
 - **Trade Volume (7D) in million USD:** [Provide number & source link]  
 - **Total Value Locked (TVL) in million USD:** [Provide number & source link]  
-- **Gluing Score Calculation:** [Trade Volume * Number of Chains * TVL]  
+- **Is Fork**:[True or False]
+- **Forked From**:[Protocol forked from]
 
 ## Reason for Update  
 [Explain why the ranking should change or missing data should be updated. Provide any necessary references.]  
