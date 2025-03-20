@@ -17,7 +17,7 @@ Gluing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\tex
 - If any data is missing, the protocol is placed at the bottom of the queue.  
 - Anyone (protocol teams, community members) can challenge rankings by submitting updated data with verifiable sources.  
 
-🔗 **View the Live Queue:** https://gluexprotocol.github.io/gluing-queue/
+🔗 **View the Live Queue:** https://gluex.xyz/#/gluing-queue
 
 ---
 
@@ -72,7 +72,7 @@ To ensure the integrity of the gluing process, we might require bounties to be l
 
 For further information on integration, ranking, and submitting requests, refer to:  
 
-- **[Live Gluing Queue](https://gluex.github.io/gluing-queue/)** – View the latest queue rankings.  
+- **[Live Gluing Queue](https://gluex.xyz/#/gluing-queue)** – View the latest queue rankings.  
 - **[PR Submission Template](./PR-template.md)** – Follow the correct format when updating the queue.  
 - **[GlueX Liquidity Module Integration Guide](https://github.com/gluexprotocol/liquidity-module-self-integration)** – Technical documentation for developing a liquidity module.  
 
