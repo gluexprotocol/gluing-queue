@@ -21,6 +21,11 @@ Gluing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\tex
 
 ---
 
+> **NOTE**  
+> Before submitting an update to the gluing queue, please ensure your liquidity module has not already been glued to GlueX.  
+>
+> The latest list of integrated protocols is available here: [GlueX Integrated Liquidity](https://router.gluex.xyz/liquidity/staging).
+
 ## How to Submit an Update  
 
 If you are a **protocol team or community member**, you can submit a **Pull Request (PR)** to:  
