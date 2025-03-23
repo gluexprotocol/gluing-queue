@@ -129,6 +129,14 @@
       "trade_volume_7d_million": 0.00177,
       "tvl_million": 0.78302,
       "bounty": "None"
+    },
+    {
+      "protocol": "Renegade",
+      "docs": "https://docs.renegade.fi",
+      "chains": ["arbitrum"],
+      "trade_volume_7d_million": 0.126,
+      "tvl_million": 0.15,
+      "bounty": "None"
     }
   ]
 }
