@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "protocol": "Camelot v3",
-      "docs": "NA",
-      "chains": ["arbitrum", "gnosis"],
-      "trade_volume_7d_million": 932.15,
-      "tvl_million": 77.81,
-      "bounty": "None"
-    },
-    {
-      "protocol": "QuickSwap v3",
-      "docs": "NA",
-      "chains": ["polygon", "manta", "soneium"],
-      "trade_volume_7d_million": 245.17,
-      "tvl_million": 103.59,
-      "bounty": "None"
-    },
-    {
-      "protocol": "LFJ v2.2",
-      "docs": "NA",
-      "chains": ["arbitrum", "avalanche"],
-      "trade_volume_7d_million": 499.4,
-      "tvl_million": 88.84,
-      "bounty": "None"
-    },
-    {
       "protocol": "WOOFi",
       "docs": "NA",
       "chains": [
@@ -38,111 +14,120 @@
         "bsc",
         "optimism"
       ],
-      "trade_volume_7d_million": 329.8,
-      "tvl_million": 11.04,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Shadow Exchange",
-      "docs": "NA",
-      "chains": ["sonic"],
-      "trade_volume_7d_million": 446.73,
-      "tvl_million": 95.39,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Thena Fusion",
-      "docs": "NA",
-      "chains": ["bsc"],
-      "trade_volume_7d_million": 412.47,
-      "tvl_million": 27.4,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Merchant Moe",
-      "docs": "NA",
-      "chains": ["mantle"],
-      "trade_volume_7d_million": 174.39,
-      "tvl_million": 68.78,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Pharaoh CL",
-      "docs": "NA",
-      "chains": ["avalanche"],
-      "trade_volume_7d_million": 241,
-      "tvl_million": 28,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Swaap Maker v2",
-      "docs": "NA",
-      "chains": [
-        "base",
-        "mainnet",
-        "polygon",
-        "arbitrum",
-        "linea",
-        "optimism",
-        "bsc"
-      ],
-      "trade_volume_7d_million": 114,
-      "tvl_million": 7,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Velodrome v2",
-      "docs": "NA",
-      "chains": ["optimism"],
-      "trade_volume_7d_million": 13.48,
-      "tvl_million": 39.47,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Agni Finance",
-      "docs": "NA",
-      "chains": ["mantle"],
-      "trade_volume_7d_million": 63,
-      "tvl_million": 52,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Dragon Swap v3",
-      "chains": ["sei"],
-      "trade_volume_7d_million": 34.35,
-      "tvl_million": 19.74,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Lynex v2",
-      "docs": "NA",
-      "chains": ["linea"],
-      "trade_volume_7d_million": 87.52,
-      "tvl_million": 7.7,
-      "bounty": "None"
-    },
-    {
-      "protocol": "Beets DEX v3",
-      "docs": "NA",
-      "chains": ["sonic"],
-      "trade_volume_7d_million": 8.2,
-      "tvl_million": 55.28,
+      "trade_volume_7d_million": 48,
+      "tvl_million": 28.35,
       "bounty": "None"
     },
     {
       "protocol": "Ambient",
       "docs": "NA",
       "chains": ["scroll", "mainnet", "blast"],
-      "trade_volume_7d_million": 6.05,
-      "tvl_million": 9.7,
+      "trade_volume_7d_million": 1.13,
+      "tvl_million": 9.22,
       "bounty": "None"
     },
     {
-      "protocol": "Solidly v3",
+      "protocol": "Stability",
       "docs": "NA",
-      "chains": ["optimism", "mainnet", "arbitrum"],
-      "trade_volume_7d_million": 41.11,
-      "tvl_million": 2,
+      "chains": ["sonic", "base", "polygon"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 42.84,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Stable Jack",
+      "docs": "NA",
+      "chains": ["avalanche"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 5.07,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Steer Protocol",
+      "docs": "NA",
+      "chains": ["polygon", "linea", "base", "ethereum", "sonic", "arbitrum", "bsc", "berachain", "blast", "optimism"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 7.05,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Silo V2",
+      "docs": "NA",
+      "chains": ["sonic", "arbitrum", "ethereum", "base", "optimism"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 231.96,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Rings",
+      "docs": "NA",
+      "chains": ["sonic", "ethereum"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 120.88,
+      "bounty": "None"
+    },
+   {
+      "protocol": "Ring Protocol",
+      "docs": "NA",
+      "chains": ["blast", "ethereum","base","arbitrum"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 49.09,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Vertex",
+      "docs": "NA",
+      "chains": ["sonic", "arbitrum", "blast", "mantle", "base"],
+      "trade_volume_7d_million": 4.64,
+      "tvl_million": 63.96,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Spectra",
+      "docs": "NA",
+      "chains": ["sonic", "ethereum", "base", "polygon", "optimism", "arbitrum"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 176.69,
+      "bounty": "None"
+    },
+    {
+      "protocol": "Oku",
+      "docs": "NA",
+      "chains": ["scroll"],
+      "trade_volume_7d_million": null,
+      "tvl_million": null,
+      "bounty": "None"
+    },
+    {
+      "protocol": "SyncSwap",
+      "docs": "NA",
+      "chains": ["scroll", "linea"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 49.4,
+      "bounty": "None"
+    },
+    {
+      "protocol": "iZiSwap",
+      "docs": "NA",
+      "chains": ["scroll", "taiko", "linea", "base", "mantle"],
+      "trade_volume_7d_million": 1.3,
+      "tvl_million": 91.1,
+      "bounty": "None"
+    },
+    {
+      "protocol": "MethLab",
+      "docs": "NA",
+      "chains": ["mantle"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 12.45,
+      "bounty": "None"
+    },
+    {
+      "protocol": "VaporDEX",
+      "docs": "NA",
+      "chains": ["avalanche"],
+      "trade_volume_7d_million": 0.00177,
+      "tvl_million": 0.78302,
       "bounty": "None"
     }
   ]
