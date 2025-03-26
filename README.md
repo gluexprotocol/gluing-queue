@@ -26,15 +26,16 @@ Gluing Score = (\text{7d Trade Volume}) * (\text{Nr of Chains Deployed}) * (\tex
 >
 > The latest list of integrated protocols is available here: [GlueX Integrated Liquidity](https://router.gluex.xyz/liquidity/staging).
 
-## How to Submit an Update  
+## How to add a protocol to the gluing queue?
 
-If you are a **protocol team or community member**, you can submit a **Pull Request (PR)** to:  
+If you are a **protocol team or community member**, you can submit a **Pull Request (PR)** for one of the following reasons:  
 
-1. Provide missing **trade volume, TVL, or chain deployment data**.  
-2. Request a **re-evaluation of your Gluing Score**.  
-3. Assign a **bounty to fast-track integration**.  
+1. Add your protocol to the queue.
+2. Provide missing trade volume, TVL, or chain deployment data.  
+3. Request a re-evaluation of your Gluing Score.  
+4. Assign a bounty to fast-track integration.  
 
-### **Steps to Update the Queue**  
+### **Steps to get added to the queue**  
 1. **Fork this repository.**  
 2. Navigate to `docs/data/gluing_queue.json`.  
 3. Update your protocol's data following the example below:  
@@ -46,14 +47,78 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
   "chains": ["Ethereum", "Polygon"],
   "trade_volume_7d_million": 100,
   "tvl_million": 200,
-  "gluing_score": 20000000,
-  "rank": 3,
-  "bounty": "1000 USDC"
+  "bounty": "1000 USDC",
+  "status": "not_glued",
+  "active_gluers": [],
+  "PRs": []
 }
 ```
 
 4. Submit a Pull Request using the PR Submission Template.
 5. The GlueX team will review and approve your update.
+
+
+## How to update a protocol in the gluing queue?
+
+If you are an **active gluer**, you can submit a PR to:
+
+1. Change the **status** of a protocol in the queue from `not_glued` to `being_glued`.
+2. Change the **status** of a protocol in the queue from `being_glued` to `glue_pending`.
+3. Add PR details to a protocol in the queue.
+
+The status in the queue represents a protocol's integration stage. 
+
+| **Status**      | **Description**                                                             |
+|------------------|------------------------------------------------------------------------------|
+| `not_glued`      | No one has started working on this module                                   |
+| `being_glued`    | One or more Gluers are actively working on the integration                  |
+| `glue_pending`   | One or more PRs have been submitted and are awaiting review                 |
+| `glued`          | Module has been integrated into the GlueX execution layer                   |
+
+
+### **Steps to update a protocol in the gluing queue**  
+1. **Fork this repository.**  
+2. Navigate to `docs/data/gluing_queue.json`.  
+3. Update the protocol's data by changing the status, adding yourself as active gluer or adding a PR according to the following example:  
+
+```json
+{
+  "protocol": "Protocol X",
+  "docs": "<module_docs_url>",
+  "chains": ["Ethereum", "Polygon"],
+  "trade_volume_7d_million": 100,
+  "tvl_million": 200,
+  "bounty": "1000 USDC",
+  "status": "glue_pending",
+  "active_gluers": ["gluer123", "gluer456"],
+  "PRs": [
+    {
+      "author": "gluer123",
+      "url": "<pr_url>",
+      "submitted_at": "2024-04-03T18:45:00Z"
+    },
+    {
+      "author": "gluer456",
+      "url": "<pr_url>",
+      "submitted_at": "2024-04-04T09:22:00Z"
+    }
+  ]
+}
+```
+
+4. Submit a Pull Request using the PR Submission Template.
+5. The GlueX team will review and approve your update.
+
+### **Gluing Status**  
+
+The status in the queue represents a protocol's integration stage. 
+
+| **Status**      | **Description**                                                             |
+|------------------|------------------------------------------------------------------------------|
+| `not_glued`      | No one has started working on this module                                   |
+| `being_glued`    | One or more Gluers are actively working on the integration                  |
+| `glue_pending`   | One or more PRs have been submitted and are awaiting review                 |
+| `glued`          | Module has been integrated into the GlueX execution layer                   |
 
 ---
 
