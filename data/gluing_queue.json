@@ -11,7 +11,11 @@
       "active_gluers":[
         "https://github.com/joeykraut"
       ],
+<<<<<<< HEAD
       "PRs": [
+=======
+      "prs": [
+>>>>>>> f084740 (new entries to gluing queue)
         {
           "author": "https://github.com/joeykraut",
           "url": "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/5",
@@ -20,6 +24,30 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "protocol": "WOOFi",
+      "docs": null,
+      "chains": [
+        "arbitrum",
+        "avalanche",
+        "polygon",
+        "sonic",
+        "base",
+        "linea",
+        "mantle",
+        "bsc",
+        "optimism"
+      ],
+      "trade_volume_7d_million": 48,
+      "tvl_million": 28.35,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+>>>>>>> f084740 (new entries to gluing queue)
       "protocol": "LFJ V2.1",
       "docs": null,
       "chains": [
@@ -250,6 +278,39 @@
       "status": "not_glued",
       "active_gluers": [],
       "PRs": []
+    },
+    {
+      "protocol": "Rings",
+      "docs": null,
+      "chains": ["sonic", "ethereum"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 120.88,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+   {
+      "protocol": "Ring Protocol",
+      "docs": null,
+      "chains": ["blast", "ethereum","base","arbitrum"],
+      "trade_volume_7d_million": null,
+      "tvl_million": 49.09,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Vertex",
+      "docs": null,
+      "chains": ["sonic", "arbitrum", "blast", "mantle", "base"],
+      "trade_volume_7d_million": 4.64,
+      "tvl_million": 63.96,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
     },
     {
       "protocol": "Wombat Exchange",
