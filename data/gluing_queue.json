@@ -11,11 +11,7 @@
       "active_gluers":[
         "https://github.com/joeykraut"
       ],
-<<<<<<< HEAD
       "PRs": [
-=======
-      "prs": [
->>>>>>> f084740 (new entries to gluing queue)
         {
           "author": "https://github.com/joeykraut",
           "url": "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/5",
@@ -24,8 +20,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-=======
       "protocol": "WOOFi",
       "docs": null,
       "chains": [
@@ -47,7 +41,6 @@
       "prs": []
     },
     {
->>>>>>> f084740 (new entries to gluing queue)
       "protocol": "LFJ V2.1",
       "docs": null,
       "chains": [
