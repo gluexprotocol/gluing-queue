@@ -117,7 +117,7 @@ The status in the queue represents a protocol's integration stage.
 |------------------|------------------------------------------------------------------------------|
 | `not_glued`      | No one has started working on this module                                   |
 | `being_glued`    | One or more Gluers are actively working on the integration                  |
-| `glue_pending`   | One or more PRs have been submitted and are awaiting review                 |
+| `glue_pending`   | A PR has been approved and the liquidity module is ready to be onboarded into GlueX                 |
 | `glued`          | Module has been integrated into the GlueX execution layer                   |
 
 ---

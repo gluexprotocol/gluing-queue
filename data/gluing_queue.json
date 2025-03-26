@@ -1,6 +1,25 @@
 {
   "queue": [
     {
+      "protocol": "Renegade",
+      "docs": "https://docs.renegade.fi",
+      "chains": ["arbitrum"],
+      "trade_volume_7d_million": 0.126,
+      "tvl_million": 0.15,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":[
+        "https://github.com/joeykraut"
+      ],
+      "prs": [
+        {
+          "author": "https://github.com/joeykraut",
+          "url": "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/5",
+          "submitted_at": "2024-03-24T16:27:00Z"
+        } 
+      ]
+    },
+    {
       "protocol": "WOOFi",
       "docs": null,
       "chains": [
