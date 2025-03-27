@@ -157,8 +157,8 @@
       "trade_volume_7d_million": null,
       "tvl_million": 49.4,
       "bounty": null,
-      "status": "not_glued",
-      "active_gluers":[],
+      "status": "being_glued",
+      "active_gluers":["https://github.com/manibajpai"],
       "prs": []
     },
     {
@@ -193,6 +193,83 @@
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
+    },
+    {
+      "protocol": "Venus",
+      "docs": "https://docs-v4.venus.io/",
+      "chains": ["bsc","ethereum","arbitrum","optimism","base","unichain"],
+      "trade_volume_7d_million": 31.76,
+      "tvl_million": 1743,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":["https://github.com/manibajpai"],
+      "prs": [
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/608",
+          "submitted_at": "2025-03-26T10:12:32Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/609",
+          "submitted_at": "2025-03-26T11:33:08Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/610",
+          "submitted_at": "2025-03-26T12:13:13Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/616",
+          "submitted_at": "2025-03-27T08:13:13Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/617",
+          "submitted_at": "2025-03-27T08:24:00Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/618",
+          "submitted_at": "2025-03-27T08:34:30Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/619",
+          "submitted_at": "2025-03-27T08:42:50Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/620",
+          "submitted_at": "2025-03-27T08:50:30Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/621",
+          "submitted_at": "2025-03-27T09:22:51Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/622",
+          "submitted_at": "2025-03-27T10:27:56Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/623",
+          "submitted_at": "2025-03-27T10:37:01Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/624",
+          "submitted_at": "2025-03-27T10:51:33Z"
+        },
+        {
+          "author": "https://github.com/manibajpai",
+          "url": "https://github.com/gluexprotocol/gluer_template_beta/pull/625",
+          "submitted_at": "2025-03-27T10:57:57Z"
+        }
+     ]
     }
   ]
 }
