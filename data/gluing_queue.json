@@ -20,6 +20,61 @@
       ]
     },
     {
+      "protocol": "Aerodrome V1",
+      "docs": "https://aerodrome.finance/docs",
+      "chains": ["base"],
+      "trade_volume_7d_million": 107.8,
+      "tvl_million": 279.53,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Pharaoh Legacy",
+      "docs": "https://docs.pharaoh.exchange/",
+      "chains": ["avalanche"],
+      "trade_volume_7d_million": 31.71,
+      "tvl_million": 10.78,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Shadow Exchange Legacy",
+      "docs": "https://docs.shadow.so/",
+      "chains": ["sonic"],
+      "trade_volume_7d_million": 20.43,
+      "tvl_million": 5.45,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "BaseSwap V2",
+      "docs": null,
+      "chains": ["base"],
+      "trade_volume_7d_million": 9.03,
+      "tvl_million": 4.8,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":["https://github.com/eshu-manohare"],
+      "prs": []
+    },
+    {
+      "protocol": "Velodrome V2",
+      "docs": "https://velodrome.finance/docs#",
+      "chains": ["optimism"],
+      "trade_volume_7d_million": 6.3,
+      "tvl_million": 44.47,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":["https://github.com/daksha-gluex"],
+      "prs": []
+    },
+    {
       "protocol": "LFJ V2.1",
       "docs": null,
       "chains": [
@@ -33,19 +88,17 @@
       "active_gluers": ["https://github.com/vamsi-gluex"],
       "prs": []
     },
-
     {
       "protocol": "Swaap Maker V2",
-      "docs": null,
-      "chains": [
-        "base",
-        "ethereum","bsc","arbitrum","polygon","optimism","scroll","mantle","linea"
-      ],
-      "trade_volume_7d_million": 7.28,
-      "tvl_million": 2.22,
+      "docs": "https://docs.swaap.finance/docs/swaap-maker",
+      "chains": ["ethereum","base","optimism", "arbitrum","polygon","bnb", "scroll","avalanche","linea","mantle"],
+      "trade_volume_7d_million": 3.58,
+      "tvl_million": 7.44,
       "bounty": null,
-      "status": "not_glued",
-      "active_gluers": [],
+      "status": "being_glued",
+      "active_gluers":[
+        "https://github.com/piyushKarnGluex"
+      ],
       "prs": []
     },
     {
@@ -665,8 +718,8 @@
       "trade_volume_7d_million": null,
       "tvl_million": 1722,
       "bounty": null,
-      "status": "not_glued",
-      "active_gluers": [],
+      "status": "being_glued",
+      "active_gluers": ["https://github.com/manibajpai"],
       "prs": []
     },
     {
@@ -958,8 +1011,8 @@
       "trade_volume_7d_million": null,
       "tvl_million": 49.4,
       "bounty": null,
-      "status": "not_glued",
-      "active_gluers":[],
+      "status": "being_glued",
+      "active_gluers":["https://github.com/manibajpai"],
       "prs": []
     },
     {
@@ -1120,7 +1173,7 @@
       "prs": []
     },
     {
-      "protocol": "Avalon Labs",
+      "protocol": "Avalon Finance",
       "docs": null,
       "chains": [
         "ethereum",
@@ -1130,11 +1183,39 @@
         "sei",
         "arbitrum",
         "base",
-        "scroll",
+        "scroll"
+      ],
+      "trade_volume_7d_million": null,
+      "tvl_million": 738.34,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers": ["https://github.com/payal-gluex"],
+      "prs": []
+    },
+    {
+      "protocol": "Avalon USDa",
+      "docs": null,
+      "chains": [
+        "ethereum",
+        "bsc",
+        "sonic",
         "mantle"
       ],
       "trade_volume_7d_million": null,
-      "tvl_million": 1376,
+      "tvl_million": 495.5,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers": [],
+      "prs": []
+    },
+    {
+      "protocol": "Avalon CeDeFi",
+      "docs": null,
+      "chains": [
+        "ethereum"
+      ],
+      "trade_volume_7d_million": null,
+      "tvl_million": 119,
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
