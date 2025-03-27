@@ -20,6 +20,17 @@
       ]
     },
     {
+      "protocol": "Velodrome V2",
+      "docs": "https://velodrome.finance/docs#",
+      "chains": ["optimism"],
+      "trade_volume_7d_million": 6.3,
+      "tvl_million": 44.47,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":["https://github.com/daksha-gluex"],
+      "prs": []
+    },
+    {
       "protocol": "WOOFi",
       "docs": null,
       "chains": [
@@ -189,6 +200,50 @@
       "chains": ["avalanche"],
       "trade_volume_7d_million": 0.00177,
       "tvl_million": 0.78302,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Aerodrome V1",
+      "docs": "https://aerodrome.finance/docs",
+      "chains": ["base"],
+      "trade_volume_7d_million": 107.8,
+      "tvl_million": 279.53,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Pharaoh Legacy",
+      "docs": "https://docs.pharaoh.exchange/",
+      "chains": ["avalanche"],
+      "trade_volume_7d_million": 31.71,
+      "tvl_million": 10.78,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Shadow Exchange Legacy",
+      "docs": "https://docs.shadow.so/",
+      "chains": ["sonic"],
+      "trade_volume_7d_million": 20.43,
+      "tvl_million": 5.45,
+      "bounty": null,
+      "status": "not_glued",
+      "active_gluers":[],
+      "prs": []
+    },
+    {
+      "protocol": "Equalizer Exchange",
+      "docs": null,
+      "chains": ["sonic"],
+      "trade_volume_7d_million": 1.01,
+      "tvl_million": 3.76,
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
