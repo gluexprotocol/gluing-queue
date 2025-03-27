@@ -193,6 +193,17 @@
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
-    }
+    },
+    {
+      "protocol": "Avalon Finance",
+      "docs": "https://docs.avalonfinance.xyz/",
+      "chains": ["ethereum", "polygon", "base", "sonic", "scroll", "taiko", "sei"],
+      "trade_volume_7d_million": 679.68,
+      "tvl_million": 648.33,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers": ["https://github.com/payal-gluex"],
+      "PRs": []
+}
   ]
 }
