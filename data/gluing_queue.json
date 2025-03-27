@@ -173,7 +173,7 @@
         "arbitrum",
         "polygon"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 50,
       "tvl_million": 828.49,
       "bounty": null,
       "status": "not_glued",
