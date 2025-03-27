@@ -193,6 +193,17 @@
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
+    },
+    {
+      "protocol": "BaseSwap V2",
+      "docs": null,
+      "chains": ["base"],
+      "trade_volume_7d_million": 6.54,
+      "tvl_million": 4.8,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":["https://github.com/eshu-manohare"],
+      "prs": []
     }
   ]
 }
