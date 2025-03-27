@@ -14,7 +14,7 @@
 > PR type should be set to either: 
 >
 > - "add to queue" -> for new integrations <br>
-> - "not_glued to being_glued", "being_glued to glue_pending" or "glue_pending to glued" -> for all other PRs respectively
+> - "not_glued to being_glued", "being_glued to glue_pending" or "glue_pending to glued" -> for all other prs respectively
 
 ## Protocol Information (If PR type is "add to queue")
 - **Protocol Name:** [Insert Name]  

@@ -50,7 +50,7 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
   "bounty": "1000 USDC",
   "status": "not_glued",
   "active_gluers": [],
-  "PRs": []
+  "prs": []
 }
 ```
 
@@ -91,7 +91,7 @@ The status in the queue represents a protocol's integration stage.
   "bounty": "1000 USDC",
   "status": "glue_pending",
   "active_gluers": ["<gluer1_github_profile_url>", "<gluer2_github_profile_url>"],
-  "PRs": [
+  "prs": [
     {
       "author": "<gluer1_github_profile_url>",
       "url": "<gluer1_pr_url>",

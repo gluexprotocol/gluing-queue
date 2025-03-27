@@ -11,7 +11,7 @@
       "active_gluers":[
         "https://github.com/joeykraut"
       ],
-      "PRs": [
+      "prs": [
         {
           "author": "https://github.com/joeykraut",
           "url": "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/5",
@@ -31,7 +31,7 @@
       "bounty": null,
       "status": "being_glued",
       "active_gluers": ["https://github.com/vamsi-gluex"],
-      "PRs": []
+      "prs": []
     },
 
     {
@@ -46,7 +46,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BunnySwap",
@@ -59,7 +59,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Scale",
@@ -72,7 +72,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Spectra V2",
@@ -89,7 +89,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Lombard Vault",
@@ -105,7 +105,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Toros",
@@ -121,7 +121,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Tokemak",
@@ -135,7 +135,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Fluid Lending",
@@ -151,7 +151,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Silo Finance",
@@ -168,7 +168,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Velo Finance",
@@ -181,7 +181,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Biswap",
@@ -197,7 +197,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MetaCoin Swap",
@@ -210,7 +210,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "FstSwap",
@@ -223,7 +223,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BSCSwap",
@@ -236,7 +236,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BakerySwap",
@@ -249,7 +249,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Wombat Exchange",
@@ -268,7 +268,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Unchain X",
@@ -281,7 +281,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "SquadSwap",
@@ -299,7 +299,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BabyDogeSwap",
@@ -312,7 +312,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BabySwap",
@@ -325,7 +325,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "EmpireDEX",
@@ -342,7 +342,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Ellipsis Finance",
@@ -355,7 +355,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MDEX",
@@ -368,7 +368,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "KaoyaSwap",
@@ -381,7 +381,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Tranchess Yield",
@@ -396,7 +396,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Belt Finance",
@@ -409,7 +409,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Multipli.fi",
@@ -423,7 +423,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "StakeDAO",
@@ -440,7 +440,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Equilibria",
@@ -458,7 +458,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Bunny",
@@ -472,7 +472,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Quoll",
@@ -485,7 +485,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Venus",
@@ -503,7 +503,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Kinza Finance",
@@ -518,7 +518,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Beradrome",
@@ -531,7 +531,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "D2 Finance",
@@ -547,7 +547,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Dolomite",
@@ -562,7 +562,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Dahlia",
@@ -575,7 +575,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Axial",
@@ -588,7 +588,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "DeFive",
@@ -601,7 +601,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Equalizer Exchange",
@@ -614,7 +614,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MachFi",
@@ -627,7 +627,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MANTRA DAO",
@@ -642,7 +642,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "FireBot",
@@ -655,7 +655,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Ramses Exchange",
@@ -668,7 +668,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Basin Exchange",
@@ -682,7 +682,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "cSigma Finance",
@@ -697,7 +697,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Magpie Ecosystem",
@@ -713,7 +713,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Lazy Summer Protocol",
@@ -728,7 +728,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Jones DAO",
@@ -742,7 +742,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Harmonix Finance",
@@ -756,7 +756,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MugenFinance",
@@ -769,7 +769,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "PlutusDAO",
@@ -782,7 +782,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Vaultka",
@@ -795,7 +795,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Yield Yak Aggregator",
@@ -810,7 +810,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "LFJ V2.1",
@@ -824,7 +824,7 @@
       "bounty": null,
       "status": "being_glued",
       "active_gluers": ["https://github.com/vamsi-gluex"],
-      "PRs": []
+      "prs": []
     },
 
     {
@@ -839,7 +839,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BunnySwap",
@@ -852,7 +852,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Scale",
@@ -865,7 +865,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Spectra V2",
@@ -882,7 +882,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Lombard Vault",
@@ -898,7 +898,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Toros",
@@ -914,7 +914,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Tokemak",
@@ -928,7 +928,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Fluid Lending",
@@ -944,7 +944,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Silo Finance",
@@ -961,7 +961,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Velo Finance",
@@ -974,7 +974,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Biswap",
@@ -990,7 +990,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MetaCoin Swap",
@@ -1003,7 +1003,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "FstSwap",
@@ -1016,7 +1016,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BSCSwap",
@@ -1029,7 +1029,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BakerySwap",
@@ -1042,7 +1042,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Rings",
@@ -1053,7 +1053,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
    {
       "protocol": "Ring Protocol",
@@ -1064,7 +1064,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Vertex",
@@ -1075,7 +1075,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Wombat Exchange",
@@ -1094,7 +1094,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Unchain X",
@@ -1107,7 +1107,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "SquadSwap",
@@ -1125,7 +1125,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BabyDogeSwap",
@@ -1138,7 +1138,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "BabySwap",
@@ -1151,7 +1151,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "EmpireDEX",
@@ -1168,7 +1168,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Ellipsis Finance",
@@ -1181,7 +1181,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MDEX",
@@ -1194,7 +1194,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "KaoyaSwap",
@@ -1207,7 +1207,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Tranchess Yield",
@@ -1222,7 +1222,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Belt Finance",
@@ -1235,7 +1235,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Multipli.fi",
@@ -1249,7 +1249,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "StakeDAO",
@@ -1266,7 +1266,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Equilibria",
@@ -1284,7 +1284,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Bunny",
@@ -1298,7 +1298,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Quoll",
@@ -1311,7 +1311,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Venus",
@@ -1329,7 +1329,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Kinza Finance",
@@ -1344,7 +1344,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Beradrome",
@@ -1357,7 +1357,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "D2 Finance",
@@ -1373,7 +1373,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Dolomite",
@@ -1388,7 +1388,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Dahlia",
@@ -1401,7 +1401,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Axial",
@@ -1414,7 +1414,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "DeFive",
@@ -1427,7 +1427,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Equalizer Exchange",
@@ -1440,7 +1440,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MachFi",
@@ -1453,7 +1453,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MANTRA DAO",
@@ -1468,7 +1468,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "FireBot",
@@ -1481,7 +1481,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Ramses Exchange",
@@ -1494,7 +1494,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Basin Exchange",
@@ -1508,7 +1508,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "cSigma Finance",
@@ -1523,7 +1523,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Magpie Ecosystem",
@@ -1539,7 +1539,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Lazy Summer Protocol",
@@ -1554,7 +1554,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Jones DAO",
@@ -1568,7 +1568,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Harmonix Finance",
@@ -1582,7 +1582,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MugenFinance",
@@ -1595,7 +1595,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "PlutusDAO",
@@ -1608,7 +1608,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Vaultka",
@@ -1621,7 +1621,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Yield Yak Aggregator",
@@ -1636,7 +1636,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Ambient",
@@ -1647,7 +1647,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Stability",
@@ -1658,7 +1658,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Stable Jack",
@@ -1669,7 +1669,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Steer Protocol",
@@ -1680,7 +1680,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Silo V2",
@@ -1691,7 +1691,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Rings",
@@ -1702,7 +1702,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
    {
       "protocol": "Ring Protocol",
@@ -1713,7 +1713,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Vertex",
@@ -1724,7 +1724,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Spectra",
@@ -1735,7 +1735,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Oku",
@@ -1746,7 +1746,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Lynex",
@@ -1759,7 +1759,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "SyncSwap",
@@ -1770,7 +1770,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "iZiSwap",
@@ -1781,7 +1781,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "LayerBank",
@@ -1796,7 +1796,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Gyroscope Protocol",
@@ -1816,7 +1816,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Merchant Moe",
@@ -1829,7 +1829,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Cleopatra Exchange",
@@ -1842,7 +1842,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "INIT Capital",
@@ -1856,7 +1856,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Lendle",
@@ -1869,7 +1869,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "MethLab",
@@ -1880,7 +1880,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "VaporDEX",
@@ -1891,7 +1891,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers":[],
-      "PRs": []
+      "prs": []
       
     },
     {
@@ -1907,7 +1907,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "iZiSwap",
@@ -1925,7 +1925,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "unagiswap",
@@ -1938,7 +1938,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Avalon Labs",
@@ -1959,7 +1959,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "TakoTako",
@@ -1972,7 +1972,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Sailor",
@@ -1985,7 +1985,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Dragon Swap",
@@ -1998,7 +1998,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Jellyverse",
@@ -2011,7 +2011,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Yei Finance",
@@ -2024,7 +2024,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Takara Lend",
@@ -2037,7 +2037,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Pit Finance",
@@ -2050,7 +2050,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Fenix Finance",
@@ -2063,7 +2063,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Mangrove",
@@ -2077,7 +2077,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Pac Finance",
@@ -2090,7 +2090,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Hyperlock Finance",
@@ -2103,7 +2103,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Exactly",
@@ -2117,7 +2117,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Vesper",
@@ -2134,7 +2134,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Arrakis Finance",
@@ -2151,7 +2151,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     },
     {
       "protocol": "Mellow Protocol",
@@ -2166,7 +2166,7 @@
       "bounty": null,
       "status": "not_glued",
       "active_gluers": [],
-      "PRs": []
+      "prs": []
     }
   ]
 }
