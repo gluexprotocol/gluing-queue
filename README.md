@@ -90,16 +90,16 @@ The status in the queue represents a protocol's integration stage.
   "tvl_million": 200,
   "bounty": "1000 USDC",
   "status": "glue_pending",
-  "active_gluers": ["gluer123", "gluer456"],
+  "active_gluers": ["<gluer1_github_profile_url>", "<gluer2_github_profile_url>"],
   "PRs": [
     {
-      "author": "gluer123",
-      "url": "<pr_url>",
+      "author": "<gluer1_github_profile_url>",
+      "url": "<gluer1_pr_url>",
       "submitted_at": "2024-04-03T18:45:00Z"
     },
     {
-      "author": "gluer456",
-      "url": "<pr_url>",
+      "author": "<gluer2_github_profile_url>",
+      "url": "<gluer2_pr_url>",
       "submitted_at": "2024-04-04T09:22:00Z"
     }
   ]
