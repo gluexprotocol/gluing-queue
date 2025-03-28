@@ -1229,7 +1229,7 @@
         ]
      },
      {
-        "protocol":"Venus",
+        "protocol":"Venus Core Protocol",
         "docs":null,
         "chains":[
            "bsc",
@@ -1239,8 +1239,8 @@
            "base",
            "optimism"
         ],
-        "trade_volume_7d_million":null,
-        "tvl_million":1722,
+        "trade_volume_7d_million":77,
+        "tvl_million":1612,
         "bounty_add_on":{
            "amount":null,
            "token_address":null,
