@@ -52,7 +52,7 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
   "chains": ["Ethereum", "Polygon"],
   "trade_volume_7d_million": 100,
   "tvl_million": 200,
-  "bounty_add_on": "1000 USDC",
+  bounty_add_on": "1000 USDC",
   "status": "not_glued",
   "active_gluers": [],
   "prs": []
@@ -94,7 +94,7 @@ The status in the queue represents a protocol's integration stage.
   "chains": ["Ethereum", "Polygon"],
   "trade_volume_7d_million": 100,
   "tvl_million": 200,
-  "bounty_add_on": "1000 USDC",
+  bounty_add_on": "1000 USDC",
   "status": "glue_pending",
   "active_gluers": ["<gluer1_github_profile_url>", "<gluer2_github_profile_url>"],
   "prs": [
@@ -223,7 +223,7 @@ If a protocol wants faster integration, it can offer a **bounty add-on** to ince
   "chains": ["Ethereum", "Polygon"],
   "trade_volume_7d_million": 100,
   "tvl_million": 200,
-  "bounty_add_on": {
+  bounty_add_on": {
     "amount": "1000",
     "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
     "token_symbol": "USDC",
