@@ -47,15 +47,20 @@ If you are a **protocol team or community member**, you can submit a **Pull Requ
 
 ```json
 {
-  "protocol": "Protocol X",
-  "docs": "<module_docs_url>",
-  "chains": ["Ethereum", "Polygon"],
-  "trade_volume_7d_million": 100,
-  "tvl_million": 200,
-  bounty_add_on": "1000 USDC",
-  "status": "not_glued",
-  "active_gluers": [],
-  "prs": []
+    "protocol": "Protocol X",
+    "docs": "<module_docs_url>",
+    "chains": ["Ethereum", "Polygon"],
+    "trade_volume_7d_million": 100,
+    "tvl_million": 200,
+    "bounty_add_on":{
+        "amount": null,
+        "token_address": null,
+        "token_symbol": null,
+        "network": null
+    },
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
 }
 ```
 
@@ -89,26 +94,31 @@ The status in the queue represents a protocol's integration stage.
 
 ```json
 {
-  "protocol": "Protocol X",
-  "docs": "<module_docs_url>",
-  "chains": ["Ethereum", "Polygon"],
-  "trade_volume_7d_million": 100,
-  "tvl_million": 200,
-  bounty_add_on": "1000 USDC",
-  "status": "glue_pending",
-  "active_gluers": ["<gluer1_github_profile_url>", "<gluer2_github_profile_url>"],
-  "prs": [
-    {
-      "author": "<gluer1_github_profile_url>",
-      "url": "<gluer1_pr_url>",
-      "submitted_at": "2024-04-03T18:45:00Z"
+    "protocol": "Protocol X",
+    "docs": "<module_docs_url>",
+    "chains": ["Ethereum", "Polygon"],
+    "trade_volume_7d_million": 100,
+    "tvl_million": 200,
+    "bounty_add_on":{
+        "amount":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
     },
-    {
-      "author": "<gluer2_github_profile_url>",
-      "url": "<gluer2_pr_url>",
-      "submitted_at": "2024-04-04T09:22:00Z"
-    }
-  ]
+    "status": "glue_pending",
+    "active_gluers": ["<gluer1_github_profile_url>", "<gluer2_github_profile_url>"],
+    "prs": [
+        {
+            "author": "<gluer1_github_profile_url>",
+            "url": "<gluer1_pr_url>",
+            "submitted_at": "2024-04-03T18:45:00Z"
+        },
+        {
+            "author": "<gluer2_github_profile_url>",
+            "url": "<gluer2_pr_url>",
+            "submitted_at": "2024-04-04T09:22:00Z"
+        }
+    ]
 }
 ```
 
@@ -218,18 +228,20 @@ If a protocol wants faster integration, it can offer a **bounty add-on** to ince
 
 ```json
 {
-  "protocol": "Protocol X",
-  "docs": "<module_docs_url>",
-  "chains": ["Ethereum", "Polygon"],
-  "trade_volume_7d_million": 100,
-  "tvl_million": 200,
-  bounty_add_on": {
-    "amount": "1000",
-    "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-    "token_symbol": "USDC",
-    "network": "Ethereum"
-  },
-  ...
+    "protocol": "Protocol X",
+    "docs": "<module_docs_url>",
+    "chains": ["Ethereum", "Polygon"],
+    "trade_volume_7d_million": 100,
+    "tvl_million": 200,
+    "bounty_add_on": {
+        "amount": 1000,
+        "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token_symbol": "USDC",
+        "network": "Ethereum"
+    },
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
 }
 ```
 
