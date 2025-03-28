@@ -143,7 +143,7 @@ The total bounty achievable by a Gluer upon successful integration is computed a
 
 ```math
 
-\text{Total Protocol Gluing Bounty} = \text{Base Payout} × \text{Complexity} × \text{Uniqueness} + \text{Bounty Add-On} 
+\text{Total Protocol Gluing Bounty} = \text{Base Payout } × \text{ Complexity } × \text{ Uniqueness } + \text{Bounty Add-On} 
 
 ```
 
@@ -157,7 +157,8 @@ The base payout for gluing a protocol is determined according the the protocol's
 | 11 – 30          | Tier 2 | $300         |
 | 31 – 60          | Tier 3 | $200         |
 | 61 – 90          | Tier 4 | $100         |
-| 91+              | Tier 5 | $50          |
+| 91 - 100         | Tier 5 | $50          |
+| +100             | Tier 6 | $0           |
 
 <br>
 
@@ -182,7 +183,8 @@ Complexity is assessed after PR submission based on the **effective lines of cod
 | Tier 7           | 601 – 700              | ×1.6       |
 | Tier 8           | 701 – 800              | ×1.7       |
 | Tier 9           | 801 – 900              | ×1.8       |
-| Tier 10          | 901 – 1000             | ×2.0       |
+| Tier 10          | 900 – 1000             | ×1.9       |
+| Tier X           | +1000                  | ×2.2       |
 
 <br>
 
