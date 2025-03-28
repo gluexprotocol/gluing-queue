@@ -1,0 +1,34 @@
+{
+  "tier-info": {
+    "tier-1": {
+      "min": 1,
+      "max": 10,
+      "base": 400
+    },
+    "tier-2": {
+      "min": 11,
+      "max": 30,
+      "base": 300
+    },
+    "tier-3": {
+      "min": 31,
+      "max": 60,
+      "base": 200
+    },
+    "tier-4": {
+      "min": 61,
+      "max": 90,
+      "base": 100
+    },
+    "tier-5": {
+      "min": 91,
+      "max": 100,
+      "base": 50
+    },
+    "tier-6": {
+      "min": 101,
+      "max": 9999,
+      "base": 0
+    }
+  }
+}
