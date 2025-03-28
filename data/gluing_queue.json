@@ -1453,6 +1453,17 @@
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
+    },
+    {
+      "protocol": "Sailor",
+      "docs": null,
+      "chains": ["sei"],
+      "trade_volume_7d_million": 37.3,
+      "tvl_million": 44.49,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":["https://github.com/eshu-manohare"],
+      "prs": []
     }
   ]
 }
