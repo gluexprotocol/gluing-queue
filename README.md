@@ -169,7 +169,7 @@ The base payout for gluing a protocol is determined according the the protocol's
 
 ### Complexity Multiplier
 
-Complexity is assessed after PR submission based on the **effective lines of code (LoC)** written in the implementation file (excluding boilerplate, imports, or repeated config). The goal is to reward integrations that require deeper understanding and more extensive logic.
+The complexity multiplier reflects the estimated level of effort required to implement a liquidity module. It is based solely on the approximate number of functional lines of code (LoC) written by the Gluer. This provides an objective, scalable measure of technical complexity—regardless of the protocol type or use case. The more logic required to mirror the protocol's liquidity, the higher the reward.
 
 
 | Complexity Tier | Approx. Lines of Code | Multiplier |
@@ -205,8 +205,8 @@ The idea is simple. The more original and technically distinct the protocol is, 
 
 | Protocol Type       | Multiplier |
 |---------------------|------------|
-| Fork / Direct Clone | ×0.2       |
-| Modified Fork       | ×0.6       |
+| Fork / Direct Clone | ×0         |
+| Modified Fork       | ×0.5       |
 | Original Protocol   | ×1.0       |
 
 <br>
