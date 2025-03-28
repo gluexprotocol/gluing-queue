@@ -6,7 +6,7 @@
       "chains": ["arbitrum"],
       "trade_volume_7d_million": 0.126,
       "tvl_million": 0.15,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers":[
         "https://github.com/joeykraut"
@@ -25,7 +25,7 @@
       "chains": ["base"],
       "trade_volume_7d_million": 107.8,
       "tvl_million": 279.53,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -36,7 +36,7 @@
       "chains": ["avalanche"],
       "trade_volume_7d_million": 31.71,
       "tvl_million": 10.78,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -47,7 +47,7 @@
       "chains": ["sonic"],
       "trade_volume_7d_million": 20.43,
       "tvl_million": 5.45,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -58,7 +58,7 @@
       "chains": ["base"],
       "trade_volume_7d_million": 9.03,
       "tvl_million": 4.8,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers":["https://github.com/eshu-manohare"],
       "prs": []
@@ -69,7 +69,7 @@
       "chains": ["optimism"],
       "trade_volume_7d_million": 6.3,
       "tvl_million": 44.47,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers":["https://github.com/daksha-gluex"],
       "prs": []
@@ -83,7 +83,7 @@
       ],
       "trade_volume_7d_million": 37.83,
       "tvl_million": 11.12,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers": ["https://github.com/vamsi-gluex"],
       "prs": []
@@ -94,7 +94,7 @@
       "chains": ["ethereum","base","optimism", "arbitrum","polygon","bnb", "scroll","avalanche","linea","mantle"],
       "trade_volume_7d_million": 3.58,
       "tvl_million": 7.44,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers":[
         "https://github.com/piyushKarnGluex"
@@ -113,7 +113,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 168.21,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -129,7 +129,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 166.49,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -145,7 +145,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 18.75,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -159,7 +159,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 58.17,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -175,7 +175,7 @@
       ],
       "trade_volume_7d_million": 50,
       "tvl_million": 828.49,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -188,7 +188,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 7.82,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -201,7 +201,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 4.83,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -214,7 +214,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 4.22,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -232,7 +232,7 @@
       ],
       "trade_volume_7d_million": 7.17,
       "tvl_million": 2.54,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -245,7 +245,7 @@
       ],
       "trade_volume_7d_million": 0.735796,
       "tvl_million": 2.3,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -262,7 +262,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.9,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -275,7 +275,7 @@
       ],
       "trade_volume_7d_million": 0.203786,
       "tvl_million": 1.96,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -288,7 +288,7 @@
       ],
       "trade_volume_7d_million": 0.125489,
       "tvl_million": 1.64,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -301,7 +301,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 13.46,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -318,7 +318,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 129.62,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -336,7 +336,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 247.89,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -350,7 +350,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 3.92,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -363,7 +363,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.5,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -379,7 +379,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 10.29,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -392,7 +392,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.48,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -405,7 +405,7 @@
       ],
       "trade_volume_7d_million": 12.74,
       "tvl_million": 8.08,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -419,7 +419,7 @@
       ],
       "trade_volume_7d_million": 0.005448,
       "tvl_million": 7.38,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -435,7 +435,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 788.58,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -450,7 +450,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 78.87,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -464,7 +464,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 5.81,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -478,7 +478,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 3.79,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -491,7 +491,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 3.35,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -504,7 +504,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 1.5,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -517,7 +517,7 @@
       ],
       "trade_volume_7d_million": 0.040407,
       "tvl_million": 1.11,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -534,7 +534,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 281.4,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -547,7 +547,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 21.72,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -563,7 +563,7 @@
       ],
       "trade_volume_7d_million": 1.45,
       "tvl_million": 14.34,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -576,7 +576,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 5.64,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -587,7 +587,7 @@
       "chains": ["blast", "ethereum","base","arbitrum"],
       "trade_volume_7d_million": null,
       "tvl_million": 49.09,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -598,7 +598,7 @@
       "chains": ["sonic", "arbitrum", "blast", "mantle", "base"],
       "trade_volume_7d_million": 4.64,
       "tvl_million": 63.96,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -617,7 +617,7 @@
       ],
       "trade_volume_7d_million": 0.056648,
       "tvl_million": 5.58,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -630,7 +630,7 @@
       ],
       "trade_volume_7d_million": 2.74,
       "tvl_million": 3.09,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -643,7 +643,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.12,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -656,7 +656,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 1.4,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -671,7 +671,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 32.8,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -685,7 +685,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 82.67,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -699,7 +699,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 3.92,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -717,7 +717,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 1722,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers": ["https://github.com/manibajpai"],
       "prs": []
@@ -732,7 +732,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 13.48,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -745,7 +745,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 17.28,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -760,7 +760,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 710.8,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -773,7 +773,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 1.71,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -786,7 +786,7 @@
       ],
       "trade_volume_7d_million": 0.000869,
       "tvl_million": 2.14,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -799,7 +799,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 5.24,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -812,7 +812,7 @@
       ],
       "trade_volume_7d_million": 0.913234,
       "tvl_million": 3.45,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -825,7 +825,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.96,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -840,7 +840,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 342.27,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -853,7 +853,7 @@
       ],
       "trade_volume_7d_million": 12.74,
       "tvl_million": 8.08,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -868,7 +868,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 11.64,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -881,7 +881,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.86,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -894,7 +894,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 2.77,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -909,7 +909,7 @@
       ],
       "trade_volume_7d_million": 48,
       "tvl_million": 28.35,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -920,7 +920,7 @@
       "chains": ["sonic", "base", "polygon"],
       "trade_volume_7d_million": null,
       "tvl_million": 42.84,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -931,7 +931,7 @@
       "chains": ["avalanche"],
       "trade_volume_7d_million": null,
       "tvl_million": 5.07,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -942,7 +942,7 @@
       "chains": ["polygon", "linea", "base", "ethereum", "sonic", "arbitrum", "bsc", "berachain", "blast", "optimism"],
       "trade_volume_7d_million": null,
       "tvl_million": 7.05,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -953,7 +953,7 @@
       "chains": ["sonic", "arbitrum", "ethereum", "base", "optimism"],
       "trade_volume_7d_million": null,
       "tvl_million": 231.96,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -964,7 +964,7 @@
       "chains": ["sonic", "ethereum"],
       "trade_volume_7d_million": null,
       "tvl_million": 120.88,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -975,7 +975,7 @@
       "chains": ["sonic", "ethereum", "base", "polygon", "optimism", "arbitrum"],
       "trade_volume_7d_million": null,
       "tvl_million": 176.69,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -986,7 +986,7 @@
       "chains": ["scroll"],
       "trade_volume_7d_million": null,
       "tvl_million": 27.94,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -999,7 +999,7 @@
       ],
       "trade_volume_7d_million": 13.28,
       "tvl_million": 10.97,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1010,7 +1010,7 @@
       "chains": ["scroll", "linea"],
       "trade_volume_7d_million": null,
       "tvl_million": 49.4,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers":["https://github.com/manibajpai"],
       "prs": []
@@ -1025,7 +1025,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 47.82,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1045,7 +1045,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 34.89,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1058,7 +1058,7 @@
       ],
       "trade_volume_7d_million": 89.52,
       "tvl_million": 87.8,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1071,7 +1071,7 @@
       ],
       "trade_volume_7d_million": 11.55,
       "tvl_million": 2.25,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1085,7 +1085,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 31.84,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1098,7 +1098,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 11.11,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1109,7 +1109,7 @@
       "chains": ["mantle"],
       "trade_volume_7d_million": null,
       "tvl_million": 12.45,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -1120,7 +1120,7 @@
       "chains": ["avalanche"],
       "trade_volume_7d_million": 0.00177,
       "tvl_million": 0.78302,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers":[],
       "prs": []
@@ -1136,7 +1136,7 @@
       ],
       "trade_volume_7d_million": 1.08,
       "tvl_million": 9.23,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1154,7 +1154,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 85.34,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1167,7 +1167,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 22.64,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1187,7 +1187,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 738.34,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "being_glued",
       "active_gluers": ["https://github.com/payal-gluex"],
       "prs": []
@@ -1203,7 +1203,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 495.5,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1216,7 +1216,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 119,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1229,7 +1229,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 36.94,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1242,7 +1242,7 @@
       ],
       "trade_volume_7d_million": 29.99,
       "tvl_million": 46.31,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1255,7 +1255,7 @@
       ],
       "trade_volume_7d_million": 15.43,
       "tvl_million": 21.05,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1268,7 +1268,7 @@
       ],
       "trade_volume_7d_million": 7.32,
       "tvl_million": 17.55,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1281,7 +1281,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 226.23,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1294,7 +1294,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 11.62,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1307,7 +1307,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 14.12,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1320,7 +1320,7 @@
       ],
       "trade_volume_7d_million": 1.78,
       "tvl_million": 10.37,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1334,7 +1334,7 @@
       ],
       "trade_volume_7d_million": 0,
       "tvl_million": 4.55,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1347,7 +1347,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 3.38,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1360,7 +1360,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 7.76,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1374,7 +1374,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 4.37,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1391,7 +1391,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 20.26,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1408,7 +1408,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 100.45,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
@@ -1423,7 +1423,7 @@
       ],
       "trade_volume_7d_million": null,
       "tvl_million": 248.59,
-      "bounty": null,
+      "bounty_add_on": null,
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
