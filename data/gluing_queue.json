@@ -416,7 +416,7 @@
       "chains": [
         "polygon"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.00657,
       "tvl_million": 2.48,
       "bounty": null,
       "status": "not_glued",
@@ -756,7 +756,7 @@
         "ethereum",
         "mantle"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.0887,
       "tvl_million": 13.48,
       "bounty": null,
       "status": "not_glued",
@@ -784,7 +784,7 @@
         "arbitrum",
         "mantle"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 11.66,
       "tvl_million": 710.8,
       "bounty": null,
       "status": "not_glued",
@@ -797,7 +797,7 @@
       "chains": [
         "berachain"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.00418,
       "tvl_million": 1.71,
       "bounty": null,
       "status": "not_glued",
@@ -849,7 +849,7 @@
       "chains": [
         "sonic"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.29195,
       "tvl_million": 2.96,
       "bounty": null,
       "status": "not_glued",
@@ -1049,7 +1049,7 @@
         "scroll",
         "taiko"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 2.83,
       "tvl_million": 47.82,
       "bounty": null,
       "status": "not_glued",
@@ -1109,7 +1109,7 @@
         "mantle",
         "blast"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 2.4,
       "tvl_million": 31.84,
       "bounty": null,
       "status": "not_glued",
@@ -1122,7 +1122,7 @@
       "chains": [
         "mantle"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.31,
       "tvl_million": 11.11,
       "bounty": null,
       "status": "not_glued",
@@ -1133,7 +1133,7 @@
       "protocol": "MethLab",
       "docs": null,
       "chains": ["mantle"],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 2.71,
       "tvl_million": 12.45,
       "bounty": null,
       "status": "not_glued",
@@ -1211,7 +1211,7 @@
         "base",
         "scroll"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 28.93,
       "tvl_million": 738.34,
       "bounty": null,
       "status": "being_glued",
@@ -1227,7 +1227,7 @@
         "sonic",
         "mantle"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 21.02,
       "tvl_million": 495.5,
       "bounty": null,
       "status": "not_glued",
@@ -1253,7 +1253,7 @@
       "chains": [
         "taiko"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.14558,
       "tvl_million": 36.94,
       "bounty": null,
       "status": "not_glued",
@@ -1305,7 +1305,7 @@
       "chains": [
         "sei"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 2.37,
       "tvl_million": 226.23,
       "bounty": null,
       "status": "not_glued",
@@ -1318,7 +1318,7 @@
       "chains": [
         "sei"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.66328,
       "tvl_million": 11.62,
       "bounty": null,
       "status": "not_glued",
@@ -1371,7 +1371,7 @@
       "chains": [
         "blast"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.00000423,
       "tvl_million": 3.38,
       "bounty": null,
       "status": "not_glued",
@@ -1398,7 +1398,7 @@
         "optimism",
         "ethereum"
       ],
-      "trade_volume_7d_million": null,
+      "trade_volume_7d_million": 0.0464,
       "tvl_million": 4.37,
       "bounty": null,
       "status": "not_glued",
@@ -1453,6 +1453,588 @@
       "status": "not_glued",
       "active_gluers": [],
       "prs": []
-    }
+    },
+    
+  {
+    "protocol": "Tokenlon AMM",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 55.07,
+    "tvl_million": 54.89,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "SmarDex",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "bsc",
+      "base",
+      "polygon"
+    ],
+    "trade_volume_7d_million": 0.03975,
+    "tvl_million": 28.18,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Bancor",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 1.18,
+    "tvl_million": 42.36,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Loopring",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "taiko"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 32.29,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "IDEX",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "polygon"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 35.6,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+   {
+    "protocol": "Ouchi Finance",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 31.91,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Chainflip",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 48.49,
+    "tvl_million": 21.92,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "DeGate",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 0.22,
+    "tvl_million": 20.41,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+   {
+    "protocol": "Houdini Swap",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 0.04868,
+    "tvl_million": 4.86,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Verse",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 0.283618,
+    "tvl_million": 2.9,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Clipper",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "polygon",
+      "optimism",
+      "arbitrum",
+      "base",
+      "mantle"
+    ],
+    "trade_volume_7d_million": 4.31,
+    "tvl_million": 4.04,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+ 
+  {
+    "protocol": "Gearbox",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "optimism"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 80,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Onyx",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 0.60919,
+    "tvl_million": 45.13,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Iron Bank",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "optimism",
+      "avalanche"
+    ],
+    "trade_volume_7d_million": 0.6889,
+    "tvl_million": 16.24,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Strike",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 0.34766,
+    "tvl_million": 11.89,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Notional",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum"
+    ],
+    "trade_volume_7d_million": 0.2431,
+    "tvl_million": 11.19,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "dForce",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "optimism",
+      "polygon",
+      "bsc",
+      "avalanche"
+    ],
+    "trade_volume_7d_million": 0.11725,
+    "tvl_million": 7.87,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Sturdy",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "optimism",
+      "linea",
+      "sei"
+    ],
+    "trade_volume_7d_million": 0.27,
+    "tvl_million": 9.43,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Wildcat Protocol",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": 3.66,
+    "tvl_million": 5.5,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Teller",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "polygon",
+      "arbitrum",
+      "base",
+      "mantle"
+    ],
+    "trade_volume_7d_million": 0.1032,
+    "tvl_million": 4.59,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Ajna Protocol",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "optimism",
+      "polygon",
+      "base",
+      "linea"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 2.58,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Royco Protocol",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "sonic",
+      "base"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 2502,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Elixir",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 212.32,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Lagoon",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 36.56,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Stream Finance",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 28.83,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Noon",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 25.83,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Concentrator",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 15.78,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Latch",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 14.24,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "CLever",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 10.6,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "cVault Finance",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 8.66,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Thetanuts Finance",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "polygon",
+      "bsc",
+      "avalanche"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 10.6,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "VaultCraft",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "optimism",
+      "polygon",
+      "base",
+      "bsc"
+      
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 10.3,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Llama Airforce",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 8.83,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Napier",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "arbitrum",
+      "optimism",
+      "polygon",
+      "base",
+      "sonic",
+      "bsc",
+      "mantle",
+      "avalanche"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 5.96,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "SpiralDao",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 5.93,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Hourglass",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "mantle"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 4.06,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Universe XYZ",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 3.28,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "DELV",
+    "docs": null,
+    "chains": [
+      "ethereum",
+      "gnosis",
+      "linea",
+      "base"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 5.28,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "Liquis",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 2.82,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  },
+  {
+    "protocol": "SandClock",
+    "docs": null,
+    "chains": [
+      "ethereum"
+    ],
+    "trade_volume_7d_million": null,
+    "tvl_million": 2.21,
+    "bounty": null,
+    "status": "not_glued",
+    "active_gluers": [],
+    "prs": []
+  }
+
   ]
 }
