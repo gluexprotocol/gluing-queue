@@ -10,6 +10,7 @@
         "tvl_million":0.15,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -36,6 +37,7 @@
         "tvl_million":279.53,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -58,6 +60,7 @@
         "tvl_million":10.78,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -80,6 +83,7 @@
         "tvl_million":5.45,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -102,6 +106,7 @@
         "tvl_million":4.8,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -124,6 +129,7 @@
         "tvl_million":44.47,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -149,6 +155,7 @@
         "tvl_million":11.12,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -180,6 +187,7 @@
         "tvl_million":7.44,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -202,6 +210,7 @@
         "tvl_million":37.14,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -224,6 +233,7 @@
         "tvl_million":61.18,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -250,6 +260,7 @@
         "tvl_million":168.21,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -275,6 +286,7 @@
         "tvl_million":166.49,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -300,6 +312,7 @@
         "tvl_million":18.75,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -323,6 +336,7 @@
         "tvl_million":58.17,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -348,6 +362,7 @@
         "tvl_million":828.49,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -370,6 +385,7 @@
         "tvl_million":7.82,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -392,6 +408,7 @@
         "tvl_million":4.83,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -414,6 +431,7 @@
         "tvl_million":4.22,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -441,6 +459,7 @@
         "tvl_million":2.54,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -463,6 +482,7 @@
         "tvl_million":2.3,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -489,6 +509,7 @@
         "tvl_million":2.9,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -511,6 +532,7 @@
         "tvl_million":1.96,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -533,6 +555,7 @@
         "tvl_million":1.64,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -555,6 +578,7 @@
         "tvl_million":13.46,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -581,6 +605,7 @@
         "tvl_million":129.62,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -608,6 +633,7 @@
         "tvl_million":247.89,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -631,6 +657,7 @@
         "tvl_million":3.92,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -653,6 +680,7 @@
         "tvl_million":2.5,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -678,6 +706,7 @@
         "tvl_million":10.29,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -700,6 +729,7 @@
         "tvl_million":2.48,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -722,6 +752,7 @@
         "tvl_million":8.08,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -745,6 +776,7 @@
         "tvl_million":7.38,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -770,6 +802,7 @@
         "tvl_million":788.58,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -794,6 +827,7 @@
         "tvl_million":78.87,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -817,6 +851,7 @@
         "tvl_million":5.81,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -840,6 +875,7 @@
         "tvl_million":3.79,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -862,6 +898,7 @@
         "tvl_million":3.35,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -884,6 +921,7 @@
         "tvl_million":1.5,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -906,6 +944,7 @@
         "tvl_million":1.11,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -932,6 +971,7 @@
         "tvl_million":281.4,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -954,6 +994,7 @@
         "tvl_million":21.72,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -979,6 +1020,7 @@
         "tvl_million":14.34,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1001,6 +1043,7 @@
         "tvl_million":5.64,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1026,6 +1069,7 @@
         "tvl_million":49.09,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1052,6 +1096,7 @@
         "tvl_million":63.96,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1080,6 +1125,7 @@
         "tvl_million":5.58,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1102,6 +1148,7 @@
         "tvl_million":3.09,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1124,6 +1171,7 @@
         "tvl_million":2.12,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1146,6 +1194,7 @@
         "tvl_million":1.4,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1170,6 +1219,7 @@
         "tvl_million":32.8,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1193,6 +1243,7 @@
         "tvl_million":82.67,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1216,6 +1267,7 @@
         "tvl_million":3.92,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1243,6 +1295,7 @@
         "tvl_million":1612,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1267,6 +1320,7 @@
         "tvl_million":13.48,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1289,6 +1343,7 @@
         "tvl_million":17.28,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1313,6 +1368,7 @@
         "tvl_million":710.8,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1335,6 +1391,7 @@
         "tvl_million":1.71,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1357,6 +1414,7 @@
         "tvl_million":2.14,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1379,6 +1437,7 @@
         "tvl_million":5.24,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1401,6 +1460,7 @@
         "tvl_million":3.45,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1423,6 +1483,7 @@
         "tvl_million":2.96,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1447,6 +1508,7 @@
         "tvl_million":342.27,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1469,6 +1531,7 @@
         "tvl_million":8.08,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1493,6 +1556,7 @@
         "tvl_million":11.64,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1515,6 +1579,7 @@
         "tvl_million":2.86,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1537,6 +1602,7 @@
         "tvl_million":2.77,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1561,6 +1627,7 @@
         "tvl_million":28.35,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1585,6 +1652,7 @@
         "tvl_million":42.84,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1607,6 +1675,7 @@
         "tvl_million":5.07,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1638,6 +1707,7 @@
         "tvl_million":7.05,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1664,6 +1734,7 @@
         "tvl_million":231.96,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1687,6 +1758,7 @@
         "tvl_million":120.88,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1714,6 +1786,7 @@
         "tvl_million":176.69,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1736,6 +1809,7 @@
         "tvl_million":27.94,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1758,6 +1832,7 @@
         "tvl_million":10.97,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1781,6 +1856,7 @@
         "tvl_million":49.4,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1805,6 +1881,7 @@
         "tvl_million":47.82,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1834,6 +1911,7 @@
         "tvl_million":34.89,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1856,6 +1934,7 @@
         "tvl_million":87.8,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1878,6 +1957,7 @@
         "tvl_million":2.25,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1901,6 +1981,7 @@
         "tvl_million":31.84,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1923,6 +2004,7 @@
         "tvl_million":11.11,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1945,6 +2027,7 @@
         "tvl_million":12.45,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1967,6 +2050,7 @@
         "tvl_million":0.78302,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -1991,6 +2075,7 @@
         "tvl_million":9.23,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2018,6 +2103,7 @@
         "tvl_million":85.34,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2040,6 +2126,7 @@
         "tvl_million":22.64,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2069,6 +2156,7 @@
         "tvl_million":738.34,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2094,6 +2182,7 @@
         "tvl_million":495.5,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2116,6 +2205,7 @@
         "tvl_million":119,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2138,6 +2228,7 @@
         "tvl_million":36.94,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2160,6 +2251,7 @@
         "tvl_million":46.31,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2182,6 +2274,7 @@
         "tvl_million":21.05,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2204,6 +2297,7 @@
         "tvl_million":17.55,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2226,6 +2320,7 @@
         "tvl_million":226.23,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2248,6 +2343,7 @@
         "tvl_million":11.62,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2270,6 +2366,7 @@
         "tvl_million":14.12,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2292,6 +2389,7 @@
         "tvl_million":10.37,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2315,6 +2413,7 @@
         "tvl_million":4.55,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2337,6 +2436,7 @@
         "tvl_million":3.38,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2359,6 +2459,7 @@
         "tvl_million":7.76,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2382,6 +2483,7 @@
         "tvl_million":4.37,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2408,6 +2510,7 @@
         "tvl_million":20.26,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2434,6 +2537,7 @@
         "tvl_million":100.45,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2458,6 +2562,7 @@
         "tvl_million":248.59,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2480,6 +2585,7 @@
         "tvl_million":54.89,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2506,6 +2612,7 @@
         "tvl_million":28.18,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2528,6 +2635,7 @@
         "tvl_million":42.36,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2551,6 +2659,7 @@
         "tvl_million":32.29,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2574,6 +2683,7 @@
         "tvl_million":35.6,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2596,6 +2706,7 @@
         "tvl_million":31.91,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2618,6 +2729,7 @@
         "tvl_million":21.92,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2640,6 +2752,7 @@
         "tvl_million":20.41,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2662,6 +2775,7 @@
         "tvl_million":4.86,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2684,6 +2798,7 @@
         "tvl_million":2.9,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2711,6 +2826,7 @@
         "tvl_million":4.04,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2735,6 +2851,7 @@
         "tvl_million":80,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2757,6 +2874,7 @@
         "tvl_million":45.13,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2781,6 +2899,7 @@
         "tvl_million":16.24,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2803,6 +2922,7 @@
         "tvl_million":11.89,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2826,6 +2946,7 @@
         "tvl_million":11.19,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2853,6 +2974,7 @@
         "tvl_million":7.87,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2878,6 +3000,7 @@
         "tvl_million":9.43,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2900,6 +3023,7 @@
         "tvl_million":5.5,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2926,6 +3050,7 @@
         "tvl_million":4.59,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2953,6 +3078,7 @@
         "tvl_million":2.58,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -2978,6 +3104,7 @@
         "tvl_million":2502,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3001,6 +3128,7 @@
         "tvl_million":212.32,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3023,6 +3151,7 @@
         "tvl_million":36.56,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3045,6 +3174,7 @@
         "tvl_million":28.83,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3067,6 +3197,7 @@
         "tvl_million":25.83,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3089,6 +3220,7 @@
         "tvl_million":15.78,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3111,6 +3243,7 @@
         "tvl_million":14.24,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3133,6 +3266,7 @@
         "tvl_million":10.6,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3155,6 +3289,7 @@
         "tvl_million":8.66,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3181,6 +3316,7 @@
         "tvl_million":10.6,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3208,6 +3344,7 @@
         "tvl_million":10.3,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3230,6 +3367,7 @@
         "tvl_million":8.83,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3260,6 +3398,7 @@
         "tvl_million":5.96,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3282,6 +3421,7 @@
         "tvl_million":5.93,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3305,6 +3445,7 @@
         "tvl_million":4.06,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3327,6 +3468,7 @@
         "tvl_million":3.28,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3352,6 +3494,7 @@
         "tvl_million":5.28,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3374,6 +3517,7 @@
         "tvl_million":2.82,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null
@@ -3396,6 +3540,7 @@
         "tvl_million":2.21,
         "bounty_add_on":{
            "amount":null,
+           "decimals":null,
            "token_address":null,
            "token_symbol":null,
            "network":null

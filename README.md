@@ -236,7 +236,8 @@ If a protocol wants faster integration, it can offer a **bounty add-on** to ince
     "trade_volume_7d_million": 100,
     "tvl_million": 200,
     "bounty_add_on": {
-        "amount": 1000,
+        "amount": 1000000000,
+        "decimals": 6,
         "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
         "token_symbol": "USDC",
         "network": "Ethereum"
