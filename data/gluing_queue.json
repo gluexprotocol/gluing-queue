@@ -102,6 +102,32 @@
       "prs": []
     },
     {
+      "protocol": "Quickswap V3",
+      "docs": "https://docs.quickswap.exchange/",
+      "chains": ["polygon"],
+      "trade_volume_7d_million": 48.4,
+      "tvl_million": 37.14,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":[
+        "https://github.com/Ishita-GlueX"
+      ],
+      "prs": []
+    },
+    {
+      "protocol": "Camelot V3",
+      "docs": "https://docs.camelot.exchange/",
+      "chains": ["arbitrum"],
+      "trade_volume_7d_million": 255.86,
+      "tvl_million": 61.18,
+      "bounty": null,
+      "status": "being_glued",
+      "active_gluers":[
+        "https://github.com/vamsi-gluex"
+      ],
+      "prs": []
+    },
+    {
       "protocol": "Spectra V2",
       "docs": null,
       "chains": [
