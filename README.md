@@ -217,7 +217,9 @@ The idea is simple. The more original and technically distinct the protocol is, 
 
 ### Bounty Add-on
 
-If a protocol wants faster integration, it can offer a **bounty add-on** to incentivize Gluers to prioritize its module.  
+The bounty add-on is an optional reward assigned by the protocol itself (or its community) to accelerate its integration. This extra incentive is separate from GlueX's core bounty structure and can be denominated in any token.
+
+Protocols can assign a bounty add-on by modifying their entry in the Glueing Queue JSON. Gluers are responsible for verifying the existence, terms, and conditions of these external rewards with the protocol team.
 
 ---
 <br>
@@ -269,3 +271,13 @@ For inquiries, contact the GlueX team at:
 <br>
 
 **Telegram:** https://t.me/+yf_US2ACNrgyNzY0
+
+---
+
+<br>
+
+## Legal & Participation Acknowledgment
+
+By submitting a Pull Request to integrate a liquidity module into the GlueX Protocol via the official self-integration repository, the contributor (“Gluer”) acknowledges and agrees to the terms of the GlueX Nobel Bounty System. This includes the payout methodology, discretionary nature of base bounty adjustments, and post-review scoring.
+
+Participation in the bounty program does not constitute employment or formal engagement, and GlueX reserves the right to approve, deny, or adjust any reward based on the quality, accuracy, or legitimacy of the contribution.
