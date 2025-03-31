@@ -1310,7 +1310,7 @@
      },
      {
         "protocol":"Kinza Finance",
-        "docs":null,
+        "docs":"https://docs.kinza.finance/",
         "chains":[
            "bsc",
            "ethereum",
@@ -1325,12 +1325,14 @@
            "token_symbol":null,
            "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
            "https://github.com/piyushKarnGluex"
         ],
         "prs":[
-           
+           "https://github.com/gluexprotocol/gluer_template_beta/pull/634",
+           "https://github.com/gluexprotocol/gluer_template_beta/pull/636",
+           "https://github.com/gluexprotocol/gluer_template_beta/pull/637"
         ]
      },
      {
