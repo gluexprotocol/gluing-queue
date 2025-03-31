@@ -2430,7 +2430,7 @@
      },
      {
         "protocol":"Pac Finance",
-        "docs":null,
+        "docs":"https://docs.pac.finance/",
         "chains":[
            "blast"
         ],
@@ -2443,12 +2443,12 @@
            "token_symbol":null,
            "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-           
+           "https://github.com/piyushKarnGluex"
         ],
         "prs":[
-           
+           "https://github.com/gluexprotocol/gluer_template_beta/pull/638"
         ]
      },
      {
