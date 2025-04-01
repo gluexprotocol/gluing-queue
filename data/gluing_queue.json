@@ -3092,7 +3092,7 @@
              "sonic",
              "base"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.25,
           "tvl_million":2417,
           "bounty_add_on":{
              "amount":null,
