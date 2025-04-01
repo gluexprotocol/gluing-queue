@@ -327,7 +327,7 @@
              "arbitrum",
              "optimism"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":11.6,
           "tvl_million":168.21,
           "bounty_add_on":{
              "amount":null,
@@ -700,7 +700,7 @@
              "mantle",
              "optimism"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":10.3,
           "tvl_million":247.89,
           "bounty_add_on":{
              "amount":null,
