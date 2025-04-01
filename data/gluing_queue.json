@@ -526,7 +526,7 @@
              "optimism",
              "arbitrum"
           ],
-          "trade_volume_7d_million":"null",
+          "trade_volume_7d_million":null,
           "tvl_million":1.69,
           "bounty_add_on":{
              "amount":null,
@@ -796,7 +796,7 @@
           "chains":[
              "polygon"
           ],
-          "trade_volume_7d_million":"null",
+          "trade_volume_7d_million":null,
           "tvl_million":2.48,
           "bounty_add_on":{
              "amount":null,
@@ -1140,7 +1140,7 @@
               "base",
               "ethereum"
            ],
-           "trade_volume_7d_million":"null",
+           "trade_volume_7d_million":null,
            "tvl_million":3.59,
            "bounty_add_on":{
               "amount":null,
@@ -2123,7 +2123,7 @@
            "chains":[
               "ethereum","base","arbitrum","polygon"
            ],
-           "trade_volume_7d_million":"null",
+           "trade_volume_7d_million":null,
            "tvl_million":3.75,
            "bounty_add_on":{
               "amount":null,
@@ -2717,7 +2717,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":"null",
+          "trade_volume_7d_million":null,
           "tvl_million":20.41,
           "bounty_add_on":{
              "amount":null,
@@ -2934,7 +2934,7 @@
            "chains":[
               "ethereum"
            ],
-           "trade_volume_7d_million":"null",
+           "trade_volume_7d_million":null,
            "tvl_million":3.1,
            "bounty_add_on":{
               "amount":null,
