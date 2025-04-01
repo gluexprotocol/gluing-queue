@@ -327,7 +327,7 @@
              "arbitrum",
              "optimism"
           ],
-          "trade_volume_7d_million":11.6,
+          "trade_volume_7d_million":8.11,
           "tvl_million":168.21,
           "bounty_add_on":{
              "amount":null,
@@ -353,7 +353,7 @@
              "sonic",
              "ethereum"
           ],
-          "trade_volume_7d_million":64.4,
+          "trade_volume_7d_million":3.94,
           "tvl_million":166.49,
           "bounty_add_on":{
              "amount":null,
@@ -403,7 +403,7 @@
              "base",
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.42245,
           "tvl_million":58.17,
           "bounty_add_on":{
              "amount":null,
@@ -645,7 +645,7 @@
           "chains":[
              "bsc"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.000052,
           "tvl_million":13.46,
           "bounty_add_on":{
              "amount":null,
@@ -700,7 +700,7 @@
              "mantle",
              "optimism"
           ],
-          "trade_volume_7d_million":10.3,
+          "trade_volume_7d_million":4.01,
           "tvl_million":247.89,
           "bounty_add_on":{
              "amount":null,
@@ -747,7 +747,7 @@
           "chains":[
              "bsc"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.00435 ,
           "tvl_million":2.5,
           "bounty_add_on":{
              "amount":null,
@@ -773,7 +773,7 @@
              "ethereum",
              "base"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.40326,
           "tvl_million":10.29,
           "bounty_add_on":{
              "amount":null,
@@ -871,7 +871,7 @@
              "base",
              "optimism"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.32688,
           "tvl_million":788.58,
           "bounty_add_on":{
              "amount":null,
@@ -895,7 +895,7 @@
               "bsc"
               
            ],
-           "trade_volume_7d_million":null,
+           "trade_volume_7d_million":0.21,
            "tvl_million":29.52,
            "bounty_add_on":{
               "amount":null,
@@ -920,7 +920,7 @@
               "bsc"
               
            ],
-           "trade_volume_7d_million":null,
+           "trade_volume_7d_million":0.0000149 ,
            "tvl_million":6.47,
            "bounty_add_on":{
               "amount":null,
@@ -945,7 +945,7 @@
               "bsc"
               
            ],
-           "trade_volume_7d_million":null,
+           "trade_volume_7d_million":0.04674,
            "tvl_million":8.83,
            "bounty_add_on":{
               "amount":null,
@@ -1389,7 +1389,7 @@
              "scroll",
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":5.88,
           "tvl_million":38.5,
           "bounty_add_on":{
              "amount":null,
@@ -1413,7 +1413,7 @@
              "bsc",
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.26406,
           "tvl_million":82.67,
           "bounty_add_on":{
              "amount":null,
@@ -1516,7 +1516,7 @@
           "chains":[
              "berachain"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.19241,
           "tvl_million":17.28,
           "bounty_add_on":{
              "amount":null,
@@ -1704,7 +1704,7 @@
           "chains":[
              "arbitrum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.01302 ,
           "tvl_million":2.86,
           "bounty_add_on":{
              "amount":null,
@@ -3092,7 +3092,7 @@
              "sonic",
              "base"
           ],
-          "trade_volume_7d_million":0.25,
+          "trade_volume_7d_million":0.06644,
           "tvl_million":2417,
           "bounty_add_on":{
              "amount":null,
@@ -3116,7 +3116,7 @@
              "ethereum",
              "arbitrum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.5,
           "tvl_million":212.32,
           "bounty_add_on":{
              "amount":null,
@@ -3139,7 +3139,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.27014,
           "tvl_million":36.56,
           "bounty_add_on":{
              "amount":null,
@@ -3185,7 +3185,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.00364,
           "tvl_million":25.83,
           "bounty_add_on":{
              "amount":null,
@@ -3208,7 +3208,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.04762,
           "tvl_million":15.78,
           "bounty_add_on":{
              "amount":null,
@@ -3231,7 +3231,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.55958,
           "tvl_million":14.24,
           "bounty_add_on":{
              "amount":null,
@@ -3254,7 +3254,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.03762,
           "tvl_million":10.6,
           "bounty_add_on":{
              "amount":null,
@@ -3304,7 +3304,7 @@
              "bsc",
              "avalanche"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.18,
           "tvl_million":10.6,
           "bounty_add_on":{
              "amount":null,
@@ -3332,7 +3332,7 @@
              "base",
              "bsc"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.0004408 ,
           "tvl_million":10.3,
           "bounty_add_on":{
              "amount":null,
@@ -3355,7 +3355,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.06863,
           "tvl_million":6.89,
           "bounty_add_on":{
              "amount":null,
@@ -3386,7 +3386,7 @@
              "mantle",
              "avalanche"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.31211,
           "tvl_million":9.23,
           "bounty_add_on":{
              "amount":null,
@@ -3409,7 +3409,7 @@
           "chains":[
              "ethereum"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.09942,
           "tvl_million":5.93,
           "bounty_add_on":{
              "amount":null,
@@ -3433,7 +3433,7 @@
              "ethereum",
              "mantle"
           ],
-          "trade_volume_7d_million":null,
+          "trade_volume_7d_million":0.01429,
           "tvl_million":4.06,
           "bounty_add_on":{
              "amount":null,
@@ -3506,7 +3506,7 @@
         "chains":[
            "ethereum"
         ],
-        "trade_volume_7d_million":null,
+        "trade_volume_7d_million":0.35 ,
         "tvl_million":2.21,
         "bounty_add_on":{
            "amount":null,
@@ -3529,7 +3529,7 @@
            "chains":[
               "ethereum"
            ],
-           "trade_volume_7d_million":null,
+           "trade_volume_7d_million":0.000214 ,
            "tvl_million":1.08,
            "bounty_add_on":{
               "amount":null,
