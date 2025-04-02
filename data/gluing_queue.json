@@ -108,7 +108,7 @@
       "trade_volume_7d_million": 48.4,
       "tvl_million": 37.14,
       "bounty": null,
-      "status": "being_glued",
+      "status": "glued",
       "active_gluers":[
         "https://github.com/Ishita-GlueX"
       ],
