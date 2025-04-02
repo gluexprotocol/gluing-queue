@@ -36,3 +36,7 @@
 
 ## Reason for Update (Optional)
 [Explain why the ranking should change or missing data should be updated. Provide any necessary references.]  
+
+## Contact
+- Telegram: [Telegram handle]
+- X: [X Profile]
