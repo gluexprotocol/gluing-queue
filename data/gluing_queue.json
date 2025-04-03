@@ -1502,9 +1502,9 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"not_glued",
+          "status":"glue_pendnig",
           "active_gluers":[
-             
+            "https://github.com/piyushKarnGluex" 
           ],
           "prs":[
              
@@ -2442,9 +2442,9 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"not_glued",
+          "status":"glue_pendnig",
           "active_gluers":[
-             
+             "https://github.com/piyushKarnGluex"
           ],
           "prs":[
              
