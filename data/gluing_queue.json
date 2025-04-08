@@ -2442,7 +2442,7 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"glue_pendnig",
+          "status":"glued",
           "active_gluers":[
              "https://github.com/piyushKarnGluex"
           ],
