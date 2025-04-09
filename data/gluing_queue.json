@@ -160,7 +160,7 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"being_glued",
+          "status":"glued",
           "active_gluers":[
              "https://github.com/vamsi-gluex"
           ],
@@ -184,7 +184,7 @@
            "token_symbol":null,
            "network":null
         },
-        "status":"being_glued",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/vamsi-gluex"
         ],
@@ -309,7 +309,7 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"being_glued",
+          "status":"glued",
           "active_gluers":[
              "https://github.com/vamsi-gluex"
           ],
@@ -828,7 +828,7 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"not_glued",
+          "status":"glued",
           "active_gluers":[
              
           ],
@@ -2303,7 +2303,7 @@
              "token_symbol":null,
              "network":null
           },
-          "status":"not_glued",
+          "status":"being_glued",
           "active_gluers":[
              
           ],
