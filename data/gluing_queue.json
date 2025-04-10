@@ -1212,8 +1212,8 @@
               "base",
               "arbitrum"
            ],
-           "trade_volume_7d_million":null,
-           "tvl_million":38.77,
+           "trade_volume_7d_million":1.55,
+           "tvl_million":35.77,
            "bounty_add_on":{
               "amount":null,
               "decimals":null,
@@ -1221,9 +1221,9 @@
               "token_symbol":null,
               "network":null
            },
-           "status":"not_glued",
+           "status":"being_glued",
            "active_gluers":[
-              
+              "https://github.com/Pratham-gluex"
            ],
            "prs":[
               
