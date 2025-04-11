@@ -42,9 +42,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+           "https://github.com/daksha-gluex"
         ],
         "prs":[
           
@@ -111,9 +111,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          "https://github.com/eshu-manohare"
+           "https://github.com/eshu-manohare"
         ],
         "prs":[
           
@@ -160,7 +160,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glued",
         "active_gluers":[
           "https://github.com/vamsi-gluex"
         ],
@@ -184,7 +184,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"being_glued",
+      "status":"glued",
       "active_gluers":[
         "https://github.com/vamsi-gluex"
       ],
@@ -286,9 +286,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glued",
         "active_gluers":[
-          "https://github.com/Ishita-GlueX"
+           "https://github.com/Ishita-GlueX"
         ],
         "prs":[
           
@@ -309,7 +309,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glued",
         "active_gluers":[
           "https://github.com/vamsi-gluex"
         ],
@@ -828,9 +828,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glued",
         "active_gluers":[
-          
+          "https://github.com/vamsi-gluex"
         ],
         "prs":[
           
@@ -1451,9 +1451,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          "https://github.com/manibajpai"
+           "https://github.com/manibajpai"
         ],
         "prs":[
           
@@ -1477,9 +1477,9 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
-            "https://github.com/manibajpai"
+           "https://github.com/manibajpai"
         ],
         "prs":[
             
@@ -1502,9 +1502,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex" 
         ],
         "prs":[
           
@@ -1862,9 +1862,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          "https://github.com/manibajpai"
+           "https://github.com/manibajpai"
         ],
         "prs":[
           
@@ -2010,9 +2010,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          
+           "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -2185,9 +2185,8 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"not_glued",
         "active_gluers":[
-          "https://github.com/payal-gluex"
         ],
         "prs":[
           
@@ -2303,9 +2302,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/vamsi-gluex"
         ],
         "prs":[
           
@@ -2442,9 +2441,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glued",
         "active_gluers":[
-          
+           "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -2540,9 +2539,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+           "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -2825,9 +2824,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+           "https://github.com/swarnim-gluex"
         ],
         "prs":[
           
@@ -2997,9 +2996,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/manibajpai"
         ],
         "prs":[
           
@@ -3171,9 +3170,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+           "https://github.com/eshu-manohare"
         ],
         "prs":[
           
