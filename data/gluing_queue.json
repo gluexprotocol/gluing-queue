@@ -51,6 +51,34 @@
         ]
     },
     {
+      "protocol":"Uniswap v4",
+      "docs":"https://docs.uniswap.org/contracts/v4/overview",
+      "chains":[
+        "ethereum",
+        "arbitrum",
+        "optimism",
+        "polygon",
+        "bsc",
+        "unichain",
+        "base"
+      ],
+      "trade_volume_7d_million":965,
+      "tvl_million":117,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+      ],
+      "prs":[
+        
+      ]
+    },
+    {
         "protocol":"Pharaoh Legacy",
         "docs":"https://docs.pharaoh.exchange/",
         "chains":[
