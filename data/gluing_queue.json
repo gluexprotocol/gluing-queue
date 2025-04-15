@@ -2029,7 +2029,7 @@
         },
         "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Ishita-GlueX"
         ],
         "prs":[
           
@@ -2050,9 +2050,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Ishita-GlueX"
         ],
         "prs":[
           
@@ -2493,7 +2493,7 @@
         },
         "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Ishita-GlueX"
         ],
         "prs":[
           
