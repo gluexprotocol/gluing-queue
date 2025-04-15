@@ -3571,6 +3571,29 @@
       "prs":[
           
       ]
+    },  
+    {
+      "protocol":"Yearn V2",
+      "docs":null,
+      "chains":[
+          "ethereum","optimism","base","arbitrum"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":191.69,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"being_glued",
+      "active_gluers":[
+          "https://github.com/eshu-manohare"
+      ],
+      "prs":[
+          
+      ]
     }
   ]
 }
