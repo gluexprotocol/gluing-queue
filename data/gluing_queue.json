@@ -42,13 +42,64 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
            "https://github.com/daksha-gluex"
         ],
         "prs":[
           
         ]
+    },
+    {
+      "protocol":"Uniswap v4",
+      "docs":"https://docs.uniswap.org/contracts/v4/overview",
+      "chains":[
+        "ethereum",
+        "arbitrum",
+        "optimism",
+        "polygon",
+        "bsc",
+        "unichain",
+        "base"
+      ],
+      "trade_volume_7d_million":965,
+      "tvl_million":117,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+      ],
+      "prs":[
+        
+      ]
+    },
+    {
+      "protocol":"Pharaoh Concentrated Liquidity",
+      "docs":"https://docs.pharaoh.exchange/",
+      "chains":[
+        "avalanche"
+      ],
+      "trade_volume_7d_million":159.96,
+      "tvl_million":31.16,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"glue_pending",
+      "active_gluers":[
+         "https://github.com/Ishita-GlueX"
+      ],
+      "prs":[
+
+      ]
     },
     {
         "protocol":"Pharaoh Legacy",
@@ -65,9 +116,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          
+          "https://github.com/daksha-gluex"
         ],
         "prs":[
           
@@ -88,9 +139,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          
+          "https://github.com/daksha-gluex"
         ],
         "prs":[
           
@@ -134,7 +185,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
           "https://github.com/daksha-gluex"
         ],
@@ -438,9 +489,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/daksha-gluex"
         ],
         "prs":[
           
@@ -1642,13 +1693,36 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-          
+          "https://github.com/daksha-gluex"
         ],
         "prs":[
           
         ]
+    },
+    {
+      "protocol":"SwapX V2",
+      "docs":"https://swapxfi.gitbook.io/swapx-docs",
+      "chains":[
+        "sonic"
+      ],
+      "trade_volume_7d_million":0.725,
+      "tvl_million":4.07,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"glue_pending",
+      "active_gluers":[
+          "https://github.com/daksha-gluex"
+      ],
+      "prs":[
+
+      ]
     },
     {
         "protocol":"MachFi",
@@ -1815,12 +1889,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
-        ],
-        "prs":[
-          
+          "https://github.com/Ishita-GlueX"
         ]
     },
     {
@@ -1838,9 +1909,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Ishita-GlueX"
         ],
         "prs":[
           
@@ -1872,7 +1943,7 @@
     },
     {
         "protocol":"LayerBank",
-        "docs":null,
+        "docs":"https://docs.layerbank.finance/",
         "chains":[
           "linea",
           "scroll",
@@ -1887,9 +1958,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -1972,6 +2043,167 @@
         ]
     },
     {
+       "protocol":"Swapx Algebra",
+       "docs":"https://swapxfi.gitbook.io/swapx-docs",
+       "chains":[
+         "sonic"
+       ],
+       "trade_volume_7d_million":92.88,
+       "tvl_million":49.23,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"glue_pending",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
+       "protocol":"Shadow Exchange CLMM",
+       "docs":"https://docs.shadow.so/",
+       "chains":[
+         "sonic"
+       ],
+       "trade_volume_7d_million":285.48,
+       "tvl_million":35.4,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"glue_pending",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
+       "protocol":"Silverswap",
+       "docs":"https://docs.silverswap.io/silverswap",
+       "chains":[
+         "sonic"
+       ],
+       "trade_volume_7d_million":12.03,
+       "tvl_million":0.85,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"glue_pending",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
+       "protocol":"Nuri CL",
+       "docs":"https://docs.nuri.exchange/",
+       "chains":[
+         "scroll"
+       ],
+       "trade_volume_7d_million":0.65,
+       "tvl_million":0.67,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"glue_pending",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
+       "protocol":"2Thick",
+       "docs":"https://ftm.guru/docs/thick/contracts/",
+       "chains":[
+         "sonic"
+       ],
+       "trade_volume_7d_million":12.19,
+       "tvl_million":0.70,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"glue_pending",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
+       "protocol":"Swapr V3",
+       "docs":null,
+       "chains":[
+         "gnosis"
+       ],
+       "trade_volume_7d_million":null,
+       "tvl_million":null,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"being_glued",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
+       "protocol":"Cleopatra CL",
+       "docs":"https://docs.cleo.exchange/",
+       "chains":[
+         "mantle"
+       ],
+       "trade_volume_7d_million":4.22,
+       "tvl_million":0.22,
+       "bounty_add_on":{
+         "amount":null,
+         "decimals":null,
+         "token_address":null,
+         "token_symbol":null,
+         "network":null
+       },
+       "status":"being_glued",
+       "active_gluers":[
+          "https://github.com/Ishita-GlueX"
+       ],
+       "prs":[
+ 
+       ]
+    },
+    {
         "protocol":"INIT Capital",
         "docs":null,
         "chains":[
@@ -1996,6 +2228,29 @@
         ]
     },
     {
+      "protocol":"Yearn V2",
+      "docs":null,
+      "chains":[
+        "ethereum","optimism","base","arbitrum"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":191.69,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"being_glued",
+      "active_gluers":[
+          "https://github.com/eshu-manohare"
+      ],
+      "prs":[
+
+      ]
+    },
+    {
         "protocol":"Lendle",
         "docs":null,
         "chains":[
@@ -2010,7 +2265,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/piyushKarnGluex"
         ],
@@ -2279,9 +2534,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Ishita-GlueX"
         ],
         "prs":[
           
