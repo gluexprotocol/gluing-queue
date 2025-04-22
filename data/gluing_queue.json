@@ -3828,7 +3828,7 @@
       "chains":[
           "bnb"
       ],
-      "trade_volume_7d_million":248.17,
+      "trade_volume_7d_million":null,
       "tvl_million":540.03,
       "bounty_add_on":{
           "amount":null,
