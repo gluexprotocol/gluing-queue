@@ -3320,8 +3320,8 @@
           "base",
           "linea"
         ],
-        "trade_volume_7d_million":null,
-        "tvl_million":2.02,
+        "trade_volume_7d_million":14.44,
+        "tvl_million":2.17,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3329,9 +3329,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Pratham-gluex"
         ],
         "prs":[
           
