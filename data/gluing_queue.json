@@ -1865,7 +1865,7 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"glue_pending",
+        "status":"being_glued",
         "active_gluers":[
             "https://github.com/piyushKarnGluex"
         ],
