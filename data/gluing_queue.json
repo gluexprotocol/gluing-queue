@@ -3071,7 +3071,7 @@
           "optimism"
         ],
         "trade_volume_7d_million":null,
-        "tvl_million":80,
+        "tvl_million":95.12,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3081,7 +3081,7 @@
         },
         "status":"being_glued",
         "active_gluers":[
-           "https://github.com/swarnim-gluex"
+           "https://github.com/Pratham-gluex"
         ],
         "prs":[
           
