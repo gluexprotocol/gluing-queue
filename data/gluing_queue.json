@@ -1148,9 +1148,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -1838,9 +1838,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -1865,9 +1865,9 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-            
+            "https://github.com/piyushKarnGluex"
         ],
         "prs":[
             
@@ -1958,9 +1958,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"not_glued",
         "active_gluers":[
-          "https://github.com/piyushKarnGluex"
+          
         ],
         "prs":[
           
@@ -2596,29 +2596,6 @@
         ],
         "trade_volume_7d_million":2.37,
         "tvl_million":226.23,
-        "bounty_add_on":{
-          "amount":null,
-          "decimals":null,
-          "token_address":null,
-          "token_symbol":null,
-          "network":null
-        },
-        "status":"not_glued",
-        "active_gluers":[
-          
-        ],
-        "prs":[
-          
-        ]
-    },
-    {
-        "protocol":"Takara Lend",
-        "docs":null,
-        "chains":[
-          "sei"
-        ],
-        "trade_volume_7d_million":0.66328,
-        "tvl_million":11.62,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3808,6 +3785,52 @@
       ],
       "trade_volume_7d_million":null,
       "tvl_million":1.08,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+          
+      ],
+      "prs":[
+          
+      ]
+    },
+    {
+      "protocol":"THENA FUSION",
+      "docs":"https://docs.thena.fi/thena",
+      "chains":[
+          "bnb"
+      ],
+      "trade_volume_7d_million":97.34,
+      "tvl_million":19.14,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+          
+      ],
+      "prs":[
+          
+      ]
+    },
+    {
+      "protocol":"Lista Lending",
+      "docs":"https://docs.bsc.lista.org/lista-lending/smart-contracts",
+      "chains":[
+          "bnb"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":540.03,
       "bounty_add_on":{
           "amount":null,
           "decimals":null,
