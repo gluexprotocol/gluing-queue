@@ -79,29 +79,6 @@
       ]
     },
     {
-      "protocol":"Pharaoh Concentrated Liquidity",
-      "docs":"https://docs.pharaoh.exchange/",
-      "chains":[
-        "avalanche"
-      ],
-      "trade_volume_7d_million":159.96,
-      "tvl_million":31.16,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-
-      ]
-    },
-    {
         "protocol":"Pharaoh Legacy",
         "docs":"https://docs.pharaoh.exchange/",
         "chains":[
@@ -392,29 +369,6 @@
       ]
    },
    {
-      "protocol":"Shadow Exchange CLMM",
-      "docs":"https://docs.shadow.so/",
-      "chains":[
-        "sonic"
-      ],
-      "trade_volume_7d_million":285.48,
-      "tvl_million":35.4,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-        
-      ]
-   },
-   {
       "protocol":"Silverswap",
       "docs":"https://docs.silverswap.io/silverswap",
       "chains":[
@@ -468,29 +422,6 @@
       ],
       "trade_volume_7d_million":12.19,
       "tvl_million":0.70,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-        
-      ]
-   },
-   {
-      "protocol":"Swapr V3",
-      "docs":null,
-      "chains":[
-        "gnosis"
-      ],
-      "trade_volume_7d_million":null,
-      "tvl_million":null,
       "bounty_add_on":{
         "amount":null,
         "decimals":null,
@@ -2276,29 +2207,6 @@
        ]
     },
     {
-       "protocol":"Silverswap",
-       "docs":"https://docs.silverswap.io/silverswap",
-       "chains":[
-         "sonic"
-       ],
-       "trade_volume_7d_million":12.03,
-       "tvl_million":0.85,
-       "bounty_add_on":{
-         "amount":null,
-         "decimals":null,
-         "token_address":null,
-         "token_symbol":null,
-         "network":null
-       },
-       "status":"glue_pending",
-       "active_gluers":[
-          "https://github.com/Ishita-GlueX"
-       ],
-       "prs":[
- 
-       ]
-    },
-    {
        "protocol":"Nuri CL",
        "docs":"https://docs.nuri.exchange/",
        "chains":[
@@ -2314,29 +2222,6 @@
          "network":null
        },
        "status":"glue_pending",
-       "active_gluers":[
-          "https://github.com/Ishita-GlueX"
-       ],
-       "prs":[
- 
-       ]
-    },
-    {
-       "protocol":"2Thick",
-       "docs":"https://ftm.guru/docs/thick/contracts/",
-       "chains":[
-         "sonic"
-       ],
-       "trade_volume_7d_million":12.19,
-       "tvl_million":0.70,
-       "bounty_add_on":{
-         "amount":null,
-         "decimals":null,
-         "token_address":null,
-         "token_symbol":null,
-         "network":null
-       },
-       "status":"glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
