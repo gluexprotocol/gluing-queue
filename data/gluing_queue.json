@@ -93,7 +93,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -360,7 +360,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -383,7 +383,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -406,7 +406,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -429,7 +429,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -475,7 +475,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -498,7 +498,7 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"being_glued",
+      "status":"glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -2097,9 +2097,7 @@
           "network":null
         },
         "status":"being_glued",
-        "status":"being_glued",
         "active_gluers":[
-          "https://github.com/Ishita-GlueX"
           "https://github.com/Ishita-GlueX"
         ],
         "prs":[
@@ -2269,7 +2267,7 @@
          "token_symbol":null,
          "network":null
        },
-       "status":"glue_pending",
+       "status":"glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
@@ -2338,7 +2336,7 @@
          "token_symbol":null,
          "network":null
        },
-       "status":"glue_pending",
+       "status":"glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
@@ -2361,7 +2359,7 @@
          "token_symbol":null,
          "network":null
        },
-       "status":"being_glued",
+       "status":"glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
@@ -2724,9 +2722,7 @@
           "network":null
         },
         "status":"being_glued",
-        "status":"being_glued",
         "active_gluers":[
-          "https://github.com/Ishita-GlueX"
           "https://github.com/Ishita-GlueX"
         ],
         "prs":[
