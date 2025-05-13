@@ -71,8 +71,8 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"not_glued",
-      "active_gluers":[
+      "status":"glued",
+      "active_gluers":[ "https://github.com/vamsi-gluex"
       ],
       "prs":[
         
@@ -2557,9 +2557,8 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"not_glued",
         "active_gluers":[
-          "https://github.com/vamsi-gluex"
         ],
         "prs":[
           
@@ -2649,9 +2648,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glued",
         "active_gluers":[
-          
+          "https://github.com/vamsi-gluex"
         ],
         "prs":[
           
@@ -3822,6 +3821,29 @@
       "prs":[
           
       ]
+    },{
+      "protocol":"Euler V2",
+      "docs":null,
+      "chains":[
+          "ethereum","avalanche","sonic","berachain","base","bsc","unichain"
+      ],
+      "trade_volume_7d_million":5.52,
+      "tvl_million":899.16,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+          
+      ],
+      "prs":[
+          
+      ]
+
     }
   ]
 }
