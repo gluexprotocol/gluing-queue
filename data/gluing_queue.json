@@ -3535,7 +3535,7 @@
           "HyperEVM"
         ],
         "trade_volume_7d_million":1,
-        "tvl_million":1,
+        "tvl_million":2,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
