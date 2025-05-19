@@ -3415,7 +3415,8 @@
         "protocol":"Lagoon",
         "docs": "https://docs.lagoon.finance/",
         "chains":[
-          "ethereum"
+          "ethereum",
+          "base"
         ],
         "trade_volume_7d_million":null,
         "tvl_million":36.56,
