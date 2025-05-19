@@ -3644,7 +3644,11 @@
           "https://github.com/hanzceo"
         ],
         "prs":[
-          "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/14"
+          {
+              "author":"https://github.com/hanzceo",
+              "url":"https://github.com/gluexprotocol/liquidity-module-self-integration/pull/14",
+              "submitted_at":"2025-05-19T11:13:00Z"
+          }
         ]
     },
     {
