@@ -3413,7 +3413,7 @@
     },
     {
         "protocol":"Lagoon",
-        "docs":null,
+        "docs": "https://docs.lagoon.finance/",
         "chains":[
           "ethereum"
         ],
@@ -3426,12 +3426,12 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/hanzceo"
         ],
         "prs":[
-          
+          "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/14"
         ]
     },
     {
