@@ -3416,7 +3416,11 @@
         "docs": "https://docs.lagoon.finance/",
         "chains":[
           "ethereum",
-          "base"
+          "arbitrum",
+          "base",
+          "unichain",
+          "berachain",
+          "sonic"
         ],
         "trade_volume_7d_million":null,
         "tvl_million":36.56,
