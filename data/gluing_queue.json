@@ -506,7 +506,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
           "https://github.com/manibajpai"
         ],
@@ -1595,7 +1595,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/manibajpai"
         ],
@@ -1621,7 +1621,7 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/manibajpai"
         ],
@@ -2029,7 +2029,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/manibajpai"
         ],
@@ -3369,7 +3369,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
           "https://github.com/manibajpai"
         ],
