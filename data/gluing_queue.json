@@ -71,8 +71,8 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"not_glued",
-      "active_gluers":[
+      "status":"glued",
+      "active_gluers":[ "https://github.com/vamsi-gluex"
       ],
       "prs":[
         
@@ -93,6 +93,75 @@
         "token_symbol":null,
         "network":null
       },
+      "status":"glued",
+      "active_gluers":[
+         "https://github.com/Ishita-GlueX"
+      ],
+      "prs":[
+
+      ]
+   },
+   {
+      "protocol":"Swapx Algebra",
+      "docs":"https://swapxfi.gitbook.io/swapx-docs",
+      "chains":[
+        "sonic"
+      ],
+      "trade_volume_7d_million":92.88,
+      "tvl_million":49.23,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"glued",
+      "active_gluers":[
+         "https://github.com/Ishita-GlueX"
+      ],
+      "prs":[
+
+      ]
+   },
+   {
+      "protocol":"Silverswap",
+      "docs":"https://docs.silverswap.io/silverswap",
+      "chains":[
+        "sonic"
+      ],
+      "trade_volume_7d_million":12.03,
+      "tvl_million":0.85,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"glued",
+      "active_gluers":[
+         "https://github.com/Ishita-GlueX"
+      ],
+      "prs":[
+
+      ]
+   },
+   {
+      "protocol":"Nuri CL",
+      "docs":"https://docs.nuri.exchange/",
+      "chains":[
+        "scroll"
+      ],
+      "trade_volume_7d_million":0.65,
+      "tvl_million":0.67,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
       "status":"glue_pending",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
@@ -100,7 +169,30 @@
       "prs":[
 
       ]
-    },
+   },
+   {
+      "protocol":"Cleopatra CL",
+      "docs":"https://docs.cleo.exchange/",
+      "chains":[
+        "mantle"
+      ],
+      "trade_volume_7d_million":4.22,
+      "tvl_million":0.22,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"being_glued",
+      "active_gluers":[
+         "https://github.com/Ishita-GlueX"
+      ],
+      "prs":[
+
+      ]
+   },
     {
         "protocol":"Pharaoh Legacy",
         "docs":"https://docs.pharaoh.exchange/",
@@ -261,8 +353,9 @@
         "token_symbol":null,
         "network":null
       },
-      "status":"not_glued",
+      "status":"being_glued",
       "active_gluers":[
+        "https://github.com/eshumanohare"
       ],
       "prs":[
         
@@ -387,9 +480,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -1148,9 +1241,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -1838,9 +1931,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -1865,9 +1958,9 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"not_glued",
+        "status":"glue_pending",
         "active_gluers":[
-            
+            "https://github.com/piyushKarnGluex"
         ],
         "prs":[
             
@@ -1892,6 +1985,9 @@
         "status":"being_glued",
         "active_gluers":[
           "https://github.com/Ishita-GlueX"
+        ],
+        "prs":[
+
         ]
     },
     {
@@ -1936,31 +2032,6 @@
         "status":"glue_pending",
         "active_gluers":[
            "https://github.com/manibajpai"
-        ],
-        "prs":[
-          
-        ]
-    },
-    {
-        "protocol":"LayerBank",
-        "docs":"https://docs.layerbank.finance/",
-        "chains":[
-          "linea",
-          "scroll",
-          "taiko"
-        ],
-        "trade_volume_7d_million":2.83,
-        "tvl_million":47.82,
-        "bounty_add_on":{
-          "amount":null,
-          "decimals":null,
-          "token_address":null,
-          "token_symbol":null,
-          "network":null
-        },
-        "status":"being_glued",
-        "active_gluers":[
-          "https://github.com/piyushKarnGluex"
         ],
         "prs":[
           
@@ -2080,30 +2151,7 @@
          "token_symbol":null,
          "network":null
        },
-       "status":"glue_pending",
-       "active_gluers":[
-          "https://github.com/Ishita-GlueX"
-       ],
-       "prs":[
- 
-       ]
-    },
-    {
-       "protocol":"Silverswap",
-       "docs":"https://docs.silverswap.io/silverswap",
-       "chains":[
-         "sonic"
-       ],
-       "trade_volume_7d_million":12.03,
-       "tvl_million":0.85,
-       "bounty_add_on":{
-         "amount":null,
-         "decimals":null,
-         "token_address":null,
-         "token_symbol":null,
-         "network":null
-       },
-       "status":"glue_pending",
+       "status":"glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
@@ -2172,7 +2220,7 @@
          "token_symbol":null,
          "network":null
        },
-       "status":"being_glued",
+       "status":"glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
@@ -2242,7 +2290,7 @@
           "token_symbol":null,
           "network":null
       },
-      "status":"being_glued",
+      "status":"glue_pending",
       "active_gluers":[
           "https://github.com/eshu-manohare"
       ],
@@ -2557,9 +2605,8 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"not_glued",
         "active_gluers":[
-          "https://github.com/vamsi-gluex"
         ],
         "prs":[
           
@@ -2612,29 +2659,6 @@
         ]
     },
     {
-        "protocol":"Takara Lend",
-        "docs":null,
-        "chains":[
-          "sei"
-        ],
-        "trade_volume_7d_million":0.66328,
-        "tvl_million":11.62,
-        "bounty_add_on":{
-          "amount":null,
-          "decimals":null,
-          "token_address":null,
-          "token_symbol":null,
-          "network":null
-        },
-        "status":"not_glued",
-        "active_gluers":[
-          
-        ],
-        "prs":[
-          
-        ]
-    },
-    {
         "protocol":"Fenix Concentrated Liquidity",
         "docs":null,
         "chains":[
@@ -2649,9 +2673,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"glued",
         "active_gluers":[
-          
+          "https://github.com/vamsi-gluex"
         ],
         "prs":[
           
@@ -2728,6 +2752,30 @@
         ]
     },
     {
+      "protocol":"Euler V2",
+      "docs":null,
+      "chains":[
+          "ethereum","avalanche","sonic","berachain","base","bsc","unichain"
+      ],
+      "trade_volume_7d_million":5.52,
+      "tvl_million":899.16,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+
+      ],
+      "prs":[
+
+      ]
+
+    },
+    {
         "protocol":"Exactly",
         "docs":null,
         "chains":[
@@ -2801,6 +2849,52 @@
         "prs":[
           
         ]
+    },
+    {
+      "protocol":"THENA FUSION",
+      "docs":"https://docs.thena.fi/thena",
+      "chains":[
+          "bnb"
+      ],
+      "trade_volume_7d_million":97.34,
+      "tvl_million":19.14,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+
+      ],
+      "prs":[
+
+      ]
+    },
+    {
+      "protocol":"Lista Lending",
+      "docs":"https://docs.bsc.lista.org/lista-lending/smart-contracts",
+      "chains":[
+          "bnb"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":540.03,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+
+      ],
+      "prs":[
+
+      ]
     },
     {
         "protocol":"Bancor V3",
@@ -3071,7 +3165,7 @@
           "optimism"
         ],
         "trade_volume_7d_million":null,
-        "tvl_million":80,
+        "tvl_million":95.12,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3081,7 +3175,7 @@
         },
         "status":"being_glued",
         "active_gluers":[
-           "https://github.com/swarnim-gluex"
+          "https://github.com/Pratham-gluex"
         ],
         "prs":[
           
@@ -3234,6 +3328,30 @@
         ]
     },
     {
+      "protocol":"Balancer v3 - Akron Hooks",
+      "docs":"https://crocus-sidewalk-9c5.notion.site/Balancer-Weighted-Pool-implementing-Akron-LVR-linked-Dynamic-Swap-Fee-Hook-1697cd41d8b880e1840be00404df2e3a?pvs=4",
+      "chains":[
+        "arbitrum",
+        "base"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":0.01,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+
+      ],
+      "prs":[
+
+      ]
+    },
+    {
         "protocol":"Sturdy V2",
         "docs":null,
         "chains":[
@@ -3329,9 +3447,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Pratham-gluex"
         ],
         "prs":[
           
@@ -3355,7 +3473,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
           "https://github.com/eshu-manohare"
         ],
@@ -3395,6 +3513,29 @@
         ],
         "trade_volume_7d_million":null,
         "tvl_million":36.56,
+        "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+        },
+        "status":"not_glued",
+        "active_gluers":[
+          
+        ],
+        "prs":[
+          
+        ]
+    },
+    {
+        "protocol":"stHype",
+        "docs":"https://purrsec.com/address/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1/contract",
+        "chains":[
+          "HyperEVM"
+        ],
+        "trade_volume_7d_million":1,
+        "tvl_million":2,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3480,13 +3621,13 @@
         ]
     },
     {
-        "protocol":"Latch",
-        "docs":null,
+        "protocol":"YO Protocol",
+        "docs": "https://docs.yo.xyz/protocol/yo-protocol",
         "chains":[
-          "ethereum"
+          "base"
         ],
         "trade_volume_7d_million":null,
-        "tvl_million":14.24,
+        "tvl_million":16.48,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3494,12 +3635,43 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/hanzceo"
         ],
         "prs":[
-          
+        ]
+    },
+    {
+        "protocol":"Lagoon",
+        "docs": "https://docs.lagoon.finance/",
+        "chains":[
+          "ethereum",
+          "arbitrum",
+          "base",
+          "unichain",
+          "berachain",
+          "sonic"
+        ],
+        "trade_volume_7d_million":null,
+        "tvl_million":36.56,
+        "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+        },
+        "status":"being_glued",
+        "active_gluers":[
+          "https://github.com/hanzceo"
+        ],
+        "prs":[
+          {
+              "author":"https://github.com/hanzceo",
+              "url":"https://github.com/gluexprotocol/liquidity-module-self-integration/pull/14",
+              "submitted_at":"2025-05-19T11:13:00Z"
+          }
         ]
     },
     {
