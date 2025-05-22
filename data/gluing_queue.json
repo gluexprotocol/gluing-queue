@@ -78,29 +78,6 @@
         
       ]
     },
-    {
-      "protocol":"Pharaoh Concentrated Liquidity",
-      "docs":"https://docs.pharaoh.exchange/",
-      "chains":[
-        "avalanche"
-      ],
-      "trade_volume_7d_million":159.96,
-      "tvl_million":31.16,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-
-      ]
-   },
    {
       "protocol":"Swapx Algebra",
       "docs":"https://swapxfi.gitbook.io/swapx-docs",
@@ -140,29 +117,6 @@
         "network":null
       },
       "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-
-      ]
-   },
-   {
-      "protocol":"Nuri CL",
-      "docs":"https://docs.nuri.exchange/",
-      "chains":[
-        "scroll"
-      ],
-      "trade_volume_7d_million":0.65,
-      "tvl_million":0.67,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glue_pending",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -462,52 +416,6 @@
       ]
    },
    {
-      "protocol":"Swapx Algebra",
-      "docs":"https://swapxfi.gitbook.io/swapx-docs",
-      "chains":[
-        "sonic"
-      ],
-      "trade_volume_7d_million":92.88,
-      "tvl_million":49.23,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-        
-      ]
-   },
-   {
-      "protocol":"Silverswap",
-      "docs":"https://docs.silverswap.io/silverswap",
-      "chains":[
-        "sonic"
-      ],
-      "trade_volume_7d_million":12.03,
-      "tvl_million":0.85,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-        
-      ]
-   },
-   {
       "protocol":"Nuri CL",
       "docs":"https://docs.nuri.exchange/",
       "chains":[
@@ -546,29 +454,6 @@
         "network":null
       },
       "status":"glued",
-      "active_gluers":[
-         "https://github.com/Ishita-GlueX"
-      ],
-      "prs":[
-        
-      ]
-   },
-   {
-      "protocol":"Cleopatra CL",
-      "docs":"https://docs.cleo.exchange/",
-      "chains":[
-        "mantle"
-      ],
-      "trade_volume_7d_million":4.22,
-      "tvl_million":0.22,
-      "bounty_add_on":{
-        "amount":null,
-        "decimals":null,
-        "token_address":null,
-        "token_symbol":null,
-        "network":null
-      },
-      "status":"being_glued",
       "active_gluers":[
          "https://github.com/Ishita-GlueX"
       ],
@@ -2227,29 +2112,6 @@
         ]
     },
     {
-       "protocol":"Swapx Algebra",
-       "docs":"https://swapxfi.gitbook.io/swapx-docs",
-       "chains":[
-         "sonic"
-       ],
-       "trade_volume_7d_million":92.88,
-       "tvl_million":49.23,
-       "bounty_add_on":{
-         "amount":null,
-         "decimals":null,
-         "token_address":null,
-         "token_symbol":null,
-         "network":null
-       },
-       "status":"glue_pending",
-       "active_gluers":[
-          "https://github.com/Ishita-GlueX"
-       ],
-       "prs":[
- 
-       ]
-    },
-    {
        "protocol":"Shadow Exchange CLMM",
        "docs":"https://docs.shadow.so/",
        "chains":[
@@ -2273,29 +2135,6 @@
        ]
     },
     {
-       "protocol":"Nuri CL",
-       "docs":"https://docs.nuri.exchange/",
-       "chains":[
-         "scroll"
-       ],
-       "trade_volume_7d_million":0.65,
-       "tvl_million":0.67,
-       "bounty_add_on":{
-         "amount":null,
-         "decimals":null,
-         "token_address":null,
-         "token_symbol":null,
-         "network":null
-       },
-       "status":"glue_pending",
-       "active_gluers":[
-          "https://github.com/Ishita-GlueX"
-       ],
-       "prs":[
- 
-       ]
-    },
-    {
        "protocol":"Swapr V3",
        "docs":null,
        "chains":[
@@ -2311,29 +2150,6 @@
          "network":null
        },
        "status":"glued",
-       "active_gluers":[
-          "https://github.com/Ishita-GlueX"
-       ],
-       "prs":[
- 
-       ]
-    },
-    {
-       "protocol":"Cleopatra CL",
-       "docs":"https://docs.cleo.exchange/",
-       "chains":[
-         "mantle"
-       ],
-       "trade_volume_7d_million":4.22,
-       "tvl_million":0.22,
-       "bounty_add_on":{
-         "amount":null,
-         "decimals":null,
-         "token_address":null,
-         "token_symbol":null,
-         "network":null
-       },
-       "status":"being_glued",
        "active_gluers":[
           "https://github.com/Ishita-GlueX"
        ],
@@ -2955,9 +2771,9 @@
           "token_symbol":null,
           "network":null
       },
-      "status":"not_glued",
+      "status":"glue_pending",
       "active_gluers":[
-
+        "https://github.com/Ishita-GlueX"
       ],
       "prs":[
 
