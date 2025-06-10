@@ -506,7 +506,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
+        "status":"glue_pending",
         "active_gluers":[
           "https://github.com/manibajpai"
         ],
@@ -1526,27 +1526,6 @@
         ]
     },
     {
-        "protocol":"Tranchess Yield",
-        "docs": "https://docs.tranchess.com/",
-        "chains":[
-          "bsc",
-          "scroll",
-          "ethereum"
-        ],
-        "trade_volume_7d_million":null,
-        "tvl_million":46.4,
-        "bounty_add_on":{
-          "amount":null,
-          "decimals":null,
-          "token_address":null,
-          "token_symbol":null,
-          "network":null
-        },
-        "status":"not_glued",
-        "active_gluers":[],
-        "prs":[]
-    },
-    {
         "protocol":"Multipli.fi",
         "docs":null,
         "chains":[
@@ -1591,7 +1570,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/manibajpai"
         ],
@@ -1617,7 +1596,7 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/manibajpai"
         ],
@@ -2025,7 +2004,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/manibajpai"
         ],
@@ -3348,6 +3327,29 @@
       ]
     },
     {
+      "protocol":"Pinto Exchange",
+      "docs":"https://docs.pinto.exchange/",
+      "chains":[
+          "base"
+      ],
+      "trade_volume_7d_million":3.84,
+      "tvl_million":3.2,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[
+
+      ],
+      "prs":[
+
+      ]
+    },
+    {
         "protocol":"Sturdy V2",
         "docs":null,
         "chains":[
@@ -3365,7 +3367,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
           "https://github.com/manibajpai"
         ],
@@ -3637,6 +3639,27 @@
         ],
         "prs":[
         ]
+    },
+    {
+      "protocol":"Tranchess Yield",
+      "docs": "https://docs.tranchess.com/",
+      "chains":[
+        "bsc",
+        "scroll",
+        "ethereum"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":46.3,
+      "bounty_add_on":{
+        "amount":null,
+        "decimals":null,
+        "token_address":null,
+        "token_symbol":null,
+        "network":null
+      },
+      "status":"not_glued",
+      "active_gluers":[],
+      "prs":[]
     },
     {
         "protocol":"Lagoon",
