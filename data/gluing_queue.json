@@ -3139,8 +3139,8 @@
           "base",
           "mantle"
         ],
-        "trade_volume_7d_million":4.31,
-        "tvl_million":4.04,
+        "trade_volume_7d_million":10.81,
+        "tvl_million":4.66,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -3148,12 +3148,16 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/hanzceo"
         ],
         "prs":[
-          
+          {
+            "author": "https://github.com/hanzceo",
+            "url": "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/17",
+            "submitted_at": "2025-06-10T12:50:00Z"
+          }
         ]
     },
     {
