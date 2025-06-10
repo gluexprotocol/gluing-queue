@@ -1534,7 +1534,7 @@
           "ethereum"
         ],
         "trade_volume_7d_million":null,
-        "tvl_million":38.5,
+        "tvl_million":46.4,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -1542,13 +1542,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"being_glued",
-        "active_gluers":[
-          "https://github.com/hanzceo"
-        ],
-        "prs":[
-          "https://github.com/gluexprotocol/liquidity-module-self-integration/pull/16"
-        ]
+        "status":"not_glued",
+        "active_gluers":[],
+        "prs":[]
     },
     {
         "protocol":"Multipli.fi",
