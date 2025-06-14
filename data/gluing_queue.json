@@ -2925,8 +2925,8 @@
         "chains":[
             "ethereum"
         ],
-        "trade_volume_7d_million":1.03,
-        "tvl_million":12.19,
+        "trade_volume_7d_million":1.71,
+        "tvl_million":15.98,
         "bounty_add_on":{
             "amount":null,
             "decimals":null,
@@ -2934,12 +2934,16 @@
             "token_symbol":null,
             "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-            
+            "https://github.com/hanzceo"
         ],
         "prs":[
-            
+            {
+              "author":"https://github.com/hanzceo",
+              "url":"https://github.com/gluexprotocol/liquidity-module-self-integration/pull/19",
+              "submitted_at":"2025-06-14T16:15:00Z"
+            }
         ]
       },
     {
