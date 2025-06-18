@@ -711,33 +711,6 @@
         ]
     },
     {
-        "protocol":"EmpireDEX",
-        "docs":null,
-        "chains":[
-          "bsc",
-          "ethereum",
-          "avalanche",
-          "gnosis",
-          "polygon"
-        ],
-        "trade_volume_7d_million":null,
-        "tvl_million":2.9,
-        "bounty_add_on":{
-          "amount":null,
-          "decimals":null,
-          "token_address":null,
-          "token_symbol":null,
-          "network":null
-        },
-        "status":"not_glued",
-        "active_gluers":[
-          
-        ],
-        "prs":[
-          
-        ]
-    },
-    {
         "protocol":"Ellipsis Finance",
         "docs":null,
         "chains":[
@@ -2992,29 +2965,6 @@
             
         ]
       },
-    {
-        "protocol":"Ouchi Finance",
-        "docs":null,
-        "chains":[
-          "ethereum"
-        ],
-        "trade_volume_7d_million":null,
-        "tvl_million":31.91,
-        "bounty_add_on":{
-          "amount":null,
-          "decimals":null,
-          "token_address":null,
-          "token_symbol":null,
-          "network":null
-        },
-        "status":"not_glued",
-        "active_gluers":[
-          
-        ],
-        "prs":[
-          
-        ]
-    },
     {
         "protocol":"Chainflip",
         "docs":null,
