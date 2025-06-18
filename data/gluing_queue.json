@@ -254,7 +254,7 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"glue_pending",
+        "status":"glued",
         "active_gluers":[
            "https://github.com/eshu-manohare"
         ],
@@ -340,7 +340,6 @@
       "docs":null,
       "chains":[
         "avalanche",
-        "ethereum",
         "bsc",
         "arbitrum"
       ],
@@ -2254,7 +2253,7 @@
       "protocol":"Yearn V2",
       "docs":null,
       "chains":[
-        "ethereum","optimism","base","arbitrum"
+        "ethereum","optimism","base"
       ],
       "trade_volume_7d_million":null,
       "tvl_million":191.69,
@@ -2265,7 +2264,7 @@
           "token_symbol":null,
           "network":null
       },
-      "status":"glue_pending",
+      "status":"glued",
       "active_gluers":[
           "https://github.com/eshu-manohare"
       ],
@@ -2730,7 +2729,7 @@
       "protocol":"Euler V2",
       "docs":null,
       "chains":[
-          "ethereum","avalanche","sonic","berachain","base","bsc","unichain"
+          "ethereum","avalanche","sonic","berachain","base","bsc","unichain","arbitrum"
       ],
       "trade_volume_7d_million":5.52,
       "tvl_million":899.16,
@@ -2741,14 +2740,20 @@
           "token_symbol":null,
           "network":null
       },
-      "status":"not_glued",
+      "status":"being_glued",
       "active_gluers":[
-
+        "https://github.com/eshu-manohare"
       ],
       "prs":[
-
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/853",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/846",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/843",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/836",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/835",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/834",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/829",
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/813"
       ]
-
     },
     {
         "protocol":"Exactly",
@@ -3317,12 +3322,12 @@
           "token_symbol":null,
           "network":null
       },
-      "status":"not_glued",
+      "status":"being_glued",
       "active_gluers":[
-
+        "https://github.com/eshu-manohare"
       ],
       "prs":[
-
+        "https://github.com/gluexprotocol/gluer_template_beta/pull/860"
       ]
     },
     {
@@ -3937,6 +3942,29 @@
       "status":"not_glued",
       "active_gluers":[
           
+      ],
+      "prs":[
+          
+      ]
+    },
+    {
+      "protocol":"Sparklend",
+      "docs":"https://docs.spark.fi/",
+      "chains":[
+          "ethereum", "gnosis"
+      ],
+      "trade_volume_7d_million":null,
+      "tvl_million":0.591442,
+      "bounty_add_on":{
+          "amount":null,
+          "decimals":null,
+          "token_address":null,
+          "token_symbol":null,
+          "network":null
+      },
+      "status":"glued",
+      "active_gluers":[
+          "https://github.com/eshu-manohare"
       ],
       "prs":[
           
