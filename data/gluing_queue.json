@@ -2321,7 +2321,7 @@
     },
     {
         "protocol":"VaporDEX V1",
-        "docs":null,
+        "docs":"https://docs.vapordex.io/developers/contracts",
         "chains":[
           "avalanche"
         ],
@@ -2334,9 +2334,9 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/Pratham-gluex"
         ],
         "prs":[
           
