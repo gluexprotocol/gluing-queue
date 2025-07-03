@@ -808,7 +808,7 @@
     },
     {
         "protocol":"StakeDAO",
-        "docs":null,
+        "docs":"https://docs.stakedao.org",
         "chains":[
           "ethereum",
           "base",
