@@ -808,16 +808,20 @@
     },
     {
         "protocol":"StakeDAO",
-        "docs":null,
+        "docs":"https://docs.stakedao.org",
         "chains":[
           "ethereum",
+          "base",
           "bsc",
+          "linea",
+          "fraxtal",
+          "zksync",
           "polygon",
           "avalanche",
           "arbitrum"
         ],
         "trade_volume_7d_million":null,
-        "tvl_million":129.62,
+        "tvl_million":143.86,
         "bounty_add_on":{
           "amount":null,
           "decimals":null,
@@ -825,12 +829,16 @@
           "token_symbol":null,
           "network":null
         },
-        "status":"not_glued",
+        "status":"being_glued",
         "active_gluers":[
-          
+          "https://github.com/hanzceo"
         ],
         "prs":[
-          
+          {
+              "author":"https://github.com/hanzceo",
+              "url":"https://github.com/gluexprotocol/liquidity-module-self-integration/pull/23",
+              "submitted_at":"2025-07-03T16:28:00Z"
+          }
         ]
     },
     {
